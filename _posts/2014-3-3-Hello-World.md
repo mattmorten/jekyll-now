@@ -1,10 +1,28 @@
 ---
 layout: post
-title: Preparation
+title: The SOBO Guide
 ---
 
 * This is here
 {:toc}
+
+# Why SOBO
+
+* Solitude. Typically only 10% of all PCT hikers choose to walk south. Compare that to the 50 permits issued for each day during the Northbound hiking season. You will see fewer people on your Southbound hike. Personally, that was precisely what I was looking for. For me, connecting with nature is a highly personal and individualist experience. A crowded trail would detract from that experience. I certainly wasn't looking for a party atmosphere.
+* Competing for resources. When arriving in a small town, you'll have less concern about finding an available hotel room. You won't have to worry about finding a free space at a campsite.
+* Washington. Many people decide to end their thru-hike within the first month, for all kinds of reasons that are within or outside their control. If that is the case for you, at least you will have experience Washington, one of the most scenic sections of the trail. And the beauty begins right away - the first 30 miles from Harts Pass to the border consistently rank high on people's most favourite trail sections list.
+* A cool desert section. Going NOBO through the desert is a gruelling experience. I don't think I would want to be walking in 100+ degree heat.
+* Culture
+
+## NOBO CROWDS
+
+In recent years the PCTA has released 50 permits per day throughout the the Northbound season. In 2018, 4500 Northbound thru-hike permits were issued. That is in contrast to 491 Southbound permits for the same year.
+
+The PCT going NOBO is crowded. The popularity of the trail has skyrocketed in the years since Wild was released in cinemas. Personally, this detracts from the experience I set out for when I did my hike: adventure, independence, self sufficiency, connection with nature, peacefulness. I think this issue for me is the defining one on which direction you should choose. I don't want to be squeezing 15 people into a 4-person tent site. I don't want to be hurrying into town early to get the few remaining hotel rooms. I don't want to be part of a herd.
+
+This is a personal preference, it's not a value judgement on those who are looking for something different. 
+
+
 
 # PREPARATION
 ## FITNESS PREPARATION
