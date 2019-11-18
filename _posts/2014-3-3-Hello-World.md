@@ -3,6 +3,9 @@ layout: post
 title: Preparation
 ---
 
+{:toc}
+
+# PREPARATION
 ## FITNESS PREPARATION
 
 The advice over at PCTSouthbound.com is that fitness preparation should be your number 1 concern leading up to your hike. I agree with this sentiment. The more in shape you are when starting at Harts Pass, the better experience you will have in the first few weeks of your hike.
