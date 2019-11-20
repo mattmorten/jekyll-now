@@ -7,6 +7,7 @@ title: The SOBO Guide
 table { 
   border-collapse: collapse; 
   text-align: left; width: 100%; 
+  background-color: #FFFFFF; 
 } 
 
 .datagrid {
