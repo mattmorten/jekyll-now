@@ -160,19 +160,19 @@ Take an honest look at your physical condition. Are you someone who integrates f
 
 If you live an inactive life or find cardiovascular exercise difficult, then I think fitness preparation is incredibly important and should be absolutely your number one priority pre-trail. You're going to be thrown into the deep end on a SOBO hike.
 
-## INJURY MANAGEMENT
+## Injury Management
 If you have any pre-existing injuries that you suspect may reoccur on the trail, *this* should be your primary concern. Injuries, particularly stress-related such as shin splints, plantar fasciitis, or anything achilles related are hugely prevalent on the trail and commonly end people's adventures barely after they started. 
 
 The trail is going to beat your body into a pulp in the first month. It's going to break down before it has time to adapt. 
 
 Whatever you can do ahead of time: specific exercises, stretching, PT, conditioning or whatever it is that works for you, do it!
 
-## KEEPING PERSPECTIVE
+## Keeping Perspective
 My biggest day on trail was 40 miles. If you told me before hand that I would do a 40 mile day, I would have laughed at you. During preparation, I was stressed out at the idea of even doing 25's each day, a goal I knew I would need to hit in order to make it to the end.
 
 Please don’t stress! Your body will adapt. You will achieve things you never imagined possible. Your benchmarks of what you consider a "big day" will change. You'll tap into a source of strength that perhaps you've never used before. This is one of the greatest rewards of the trail and it's waiting for you!
 
-## MENTAL PREPARATION
+## Mental Preparation
 This is so largely underrated, and something I hadn't considered much until I read the wonderful book [Pacific Crest Trials|https://thetrek.co/pacific-crest-trials-book]. I would thoroughly reccommend it to anyone. 
 
 I think everyone approaches the hike with a different level of confidence. At one end of the spectrum: you might begin your trip feeling like you're about to finally fulfil your destiny. That all your life decisions have led you to this wonderful moment and it’s happening _right now_! This is your moment, your success is ordained and undeniable.
