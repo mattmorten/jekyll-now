@@ -480,14 +480,14 @@ On the flip side, you’ll be treated to some wonderful trail towns. Idyllwild, 
 
 And you’ll be almost done!
 
-## Cowboy Camping
+### Cowboy Camping
 If you haven’t done so up until now, this is prime cowboy camping territory. I didn’t sleep a single night under a shelter after reaching South Kennedy Meadows. 
 
 The chance of rain is going to be almost zero, but I wasn’t brave enough to send home my shelter.
 
 Insects, spiders and snakes are definitely a thing in the desert. If you can overcome the fear, I would recommend cowboy camping to everyone as a beautiful experience.
 
-## Water
+### Water
 There’s not a lot of it! Received wisdom tells us not to rely on water caches, but anecdotally most people would do just that. There just isn’t much choice available to hikers. Keep checking Guthook as to the status of caches. Has there been a recent comment confirming plentiful water? I would always carry more water than I needed in event that a cache was unexpectedly dry. 
 
 I don’t think I ever carried more than 3 litres of water at any time. But I always kept 6 litres total carry capacity with a lightweight bladder just in case I needed it.
