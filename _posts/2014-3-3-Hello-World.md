@@ -7,7 +7,6 @@ title: The SOBO Guide
 table { 
   border-collapse: collapse; 
   text-align: left; width: 100%; 
-  background-color: #666666;
 } 
 
 .datagrid {
@@ -176,7 +175,7 @@ That means *finishing NorCal by around September 25th*
 
 # Gear Philosophy
 
-![Some of my starting equipment](https://raw.githubusercontent.com/mattmorten/jekyll-now/master/images/Gear.jpg)
+![Some of my starting equipment](https://raw.githubusercontent.com/mattmorten/jekyll-now/master/images/Gear.JPG)
 
 I found two different approaches to how people selected gear for the trail:
 
