@@ -75,13 +75,13 @@ This is an attempt to do that.
 
 I’ve tried to keep it mostly about things that are unique to going SOBO (except the Shrink’s General Tips section). I would recommend reading this guide *in addition* to a more general-purpose resource out there:
 
-* [Halfway Anywhere](halfwayanyanywhere.com)
-* [Yogi’s Guide](yogisbooks.com)
-* [PCT Subreddit](reddit.com/r/pacificcresttrail)
+* [Halfway Anywhere](http://halfwayanyanywhere.com)
+* [Yogi’s Guide](http://yogisbooks.com)
+* [PCT Subreddit](http://reddit.com/r/pacificcresttrail)
 
 Also, please do check out another *really excellent* SOBO resource:
 
-* [PCT Southbound](pctsouthbound.com)
+* [PCT Southbound](http://pctsouthbound.com)
 
 ## What this guide isn’t!
 This guide is not the final word on all things SOBO! Everyone has different experiences, each year is different, and the thru-hiking experience is extremely subjective.
@@ -180,8 +180,8 @@ That means *finishing NorCal by around September 25th*
 
 I found two different approaches to how people selected gear for the trail:
 
-1) One continuous hike
-2) Five separate hikes
+1. One continuous hike
+2. Five separate hikes
 
 ## One continuous hike
 You have one set of equipment to through from Canada to Mexico, through all environments, temperatures, and weather conditions. This comes with the clear benefit of simplicity - you don’t have to spend as much money and no swapping in and out is required. There's rarely a chance you'll be caught off-guard by conditions. One friend I hiked with on the trail described it as a purer experience, citing that one should be covered in all situations.
@@ -314,9 +314,9 @@ Many people who use one of the resorts above will do so to avoid exiting the tra
 
 This will put you in for a long food carry! 
 
-/Muir Trail Ranch -> South Kennedy Meadows: 155 miles/
-/Vermillion Valley Resort -> South Kennedy Meadows: 176 miles/
-/Red’s Meadow Resort -> South Kennedy Meadows: 204 miles/
+|Muir Trail Ranch -> South Kennedy Meadows: 155 miles|
+|Vermillion Valley Resort -> South Kennedy Meadows: 176 miles|
+|Red’s Meadow Resort -> South Kennedy Meadows: 204 miles|
 
 Certainly not impossible (my anecdotal observation is that about 30% of people went for this option).
 
@@ -336,9 +336,9 @@ The hitch can be a bit gnarly. A few hikers this year paid for Sonora Pass Resup
 
 ## Example Strategies
 ### The Default
-Pre-planning: none
-Time: consuming
-Cost overhead: none
+|Pre-planning: none|
+|Time: consuming|
+|Cost overhead: none|
 
 | Location | On / Off Trail | Type | Miles to Next Resupply |
 |---|---|---|---|
