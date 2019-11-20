@@ -3,6 +3,62 @@ layout: post
 title: The SOBO Guide
 ---
 
+<style>
+table { 
+  border-collapse: collapse; 
+  text-align: left; width: 100%; 
+  background-color: #666666;
+} 
+
+.datagrid {
+  font: normal 12px/150% Arial, Helvetica, sans-serif; 
+  background: #fff; 
+  overflow: hidden; 
+  border: 1px solid #8C8C8C; 
+  -webkit-border-radius: 3px; 
+  -moz-border-radius: 3px; 
+  border-radius: 3px; 
+} 
+
+table td, table th { 
+  padding: 3px 10px; 
+} 
+
+table > thead > th {
+  background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #8C8C8C), color-stop(1, #7D7D7D) );
+  background:-moz-linear-gradient( center top, #8C8C8C 5%, #7D7D7D 100% );
+  filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#8C8C8C', endColorstr='#7D7D7D');
+  background-color:#8C8C8C; 
+  color:#FFFFFF; 
+  font-size: 15px; 
+  font-weight: bold; 
+  border-left: 1px solid #A3A3A3; 
+} 
+
+table thead th:first-child { 
+  border: none; 
+} 
+
+table tbody td { 
+  color: #000000; 
+  border-left: 1px solid #DBDBDB;
+  font-size: 12px;
+  font-weight: normal; 
+} 
+
+table tbody .alt td { 
+  background: #EBEBEB; color: #000000; 
+} 
+
+table tbody td:first-child { 
+  border-left: none; 
+} 
+
+table tbody tr:last-child td { 
+  border-bottom: none; 
+}
+</style>
+
 * This is here
 {:toc}
 
