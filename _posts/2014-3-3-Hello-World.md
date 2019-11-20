@@ -327,6 +327,9 @@ So here’s the plan: pack enough food out of Red’s to make it to Bishop (whic
 This is a good strategy if you think you might want to make the single push, but don’t want to plan or pay for it. YMMV!
 
 # What to Expect
+
+![Sections Overview Diag](https://raw.githubusercontent.com/mattmorten/jekyll-now/master/images/Diag.jpg)
+
 ## Washington
 
 ![Washington](https://raw.githubusercontent.com/mattmorten/jekyll-now/master/images/Washington.jpg)
