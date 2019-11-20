@@ -19,13 +19,13 @@ This is an attempt to do that.
 
 I’ve tried to keep it mostly about things that are unique to going SOBO (except the Shrink’s General Tips section). I would recommend reading this guide *in addition* to a more general-purpose resource out there:
 
-* [Halfway Anywhere|halfwayanyanywhere.com]
-* [Yogi’s Guide|yogisbooks.com]
-* [PCT Subreddit||reddit.com/r/pacificcresttrail]
+* [Halfway Anywhere](halfwayanyanywhere.com)
+* [Yogi’s Guide](yogisbooks.com)
+* [PCT Subreddit](reddit.com/r/pacificcresttrail)
 
-Also, please do check out another *really awesome* SOBO resource:
+Also, please do check out another *really excellent* SOBO resource:
 
-* [PCT Southbound|pctsouthbound.com]
+* [PCT Southbound](pctsouthbound.com)
 
 ## What this guide isn’t!
 This guide is not the final word on all things SOBO! Everyone has different experiences, each year is different, and the thru-hiking experience is extremely subjective.
@@ -34,7 +34,7 @@ Take all of this with a grain of salt and a generous attitude. Take what is usef
 
 ## About Shrink
 
-![PCT Trail Marker](https://raw.githubusercontent.com/mattmorten/jekyll-now/master/images/Shrink.jpg)
+![Shrink at the Southern Terminus](https://raw.githubusercontent.com/mattmorten/jekyll-now/master/images/Shrink.jpg)
 
 I’m a British-born hiker in my mid-thirties. I completed a full SOBO thru-hike, all 2653 miles, in 2019. 
 
@@ -120,6 +120,8 @@ That means *finishing NorCal by around September 25th*
 
 # Gear Philosophy
 
+![Some of my starting equipment](https://raw.githubusercontent.com/mattmorten/jekyll-now/master/images/Gear.jpg)
+
 I found two different approaches to how people selected gear for the trail:
 
 1) One continuous hike
@@ -178,7 +180,7 @@ My biggest day on trail was 40 miles. If you told me before hand that I would do
 Please don’t stress! Your body will adapt. You will achieve things you never imagined possible. Your benchmarks of what you consider a "big day" will change. You'll tap into a source of strength that perhaps you've never used before. This is one of the greatest rewards of the trail and it's waiting for you!
 
 ## Mental Preparation
-This is so largely underrated, and something I hadn't considered much until I read the wonderful book [Pacific Crest Trials|https://thetrek.co/pacific-crest-trials-book]. I would thoroughly reccommend it to anyone. 
+This is so largely underrated, and something I hadn't considered much until I read the wonderful book [Pacific Crest Trials](https://thetrek.co/pacific-crest-trials-book). I would thoroughly reccommend it to anyone. 
 
 I think everyone approaches the hike with a different level of confidence. At one end of the spectrum: you might begin your trip feeling like you're about to finally fulfil your destiny. That all your life decisions have led you to this wonderful moment and it’s happening _right now_! This is your moment, your success is ordained and undeniable.
 
@@ -324,7 +326,10 @@ So here’s the plan: pack enough food out of Red’s to make it to Bishop (whic
 
 This is a good strategy if you think you might want to make the single push, but don’t want to plan or pay for it. YMMV!
 
-# What to Expect - Washington
+# What to Expect
+## Washington
+
+![Washington](https://raw.githubusercontent.com/mattmorten/jekyll-now/master/images/Washington.jpg)
 
 Daytime Temperatures: Warm
 Nighttime Temperatures: Cold
@@ -344,7 +349,7 @@ Washington is remote and it really feels that way. Long carries between towns ar
 
 However, Washington blew me away with its beauty, ruggedness, magical pine forests, and alpine lakes. Over and again the North Cascades and Glacier peak top people’s lists of favourite section of the trail. Goat Rocks will take your breath away. The wildflowers of Mount Adams Wilderness particularly stick in my mind.
 
-## Snow
+### Snow
 Most relevant is the snow on the ground. Depending on your start date, you might require micro spikes and even ice axe for the first 3 weeks of your trip.
 
 The conventional wisdom is to choose a start date at least 7 days after the snow level at Harts Pass hits zero. Any sooner and snow traversal will slow you down if you don’t have adequate experience.
@@ -355,10 +360,10 @@ I found it hard to get good information about particular passes and sections - d
 * While at Harts Pass, ask people coming back from tagging the border about the snow conditions. You can leave unneeded equipment at the Harts Pass ranger station, and pick it up on your return.
 * Check Guthook comments for Rock Pass (mile 13.6) Fire Creek Pass (mile 133.1)
 
-## Rain
+### Rain
 Don’t be surprised if you are rained on at least once each day from Harts Pass through to White Pass (the first 3 weeks). You might slog it 4,000 ft uphill, only to curse the persistent clouds and fog that can obscure any amazing views that would have made the payoff worthwhile. Stopping to dry out tents, clothing and sleeping bags will be an almost daily occurrence.
 
-## Bugs
+### Bugs
 Horrendous! Especially after the first week. Some of my lowest days on trail were due to bugs. You can barely take a 5 minute rest before you are consumed by a cloud of flying monsters. Get used to setting up your tent in record time, quickly leaping through the door, and spending the next 5 minutes squishing all the mosquitos that got inside.
 
 * Bring a bug headnet
@@ -367,8 +372,9 @@ Horrendous! Especially after the first week. Some of my lowest days on trail wer
 * Bring DEET
 * Don’t let it get you down - they are mostly gone by Oregon
 
-# What to Expect - Oregon
-#shrinks-guide #PCT
+## Oregon
+
+![Oregon](https://raw.githubusercontent.com/mattmorten/jekyll-now/master/images/Oregon.jpg)
 
 Daytime Temperatures: Hot
 Nighttime Temperatures: Warm
@@ -382,7 +388,7 @@ Difficulty: Easy
 
 Oregon will come as a welcome respite after a difficult and draining Washington section. In some ways, it is nearly the polar opposite to WA: very flat, towns / resorts every couple of days, and mild weather. Northern OR is incredibly scenic, particularly around Mount Jefferson and the Three Sisters Wilderness. You may be able to push some big-mile days here too, making up for a more cautious start through WA.
 
-## Switching Gear
+### Switching Gear
 This might be the time to start considering switching out your cold-weather gear for lighter warm-weather options. Or at the very least mailing some unnecessary layers forward to Sierra City. The weather for the next 800 miles is going to be much warmer. Think about mailing out:
 
 * Fleece or puffy (you only need one)
@@ -398,7 +404,9 @@ Additionally, maybe switching out:
 
 You’re can potentially strip 2 - 4 lbs from your base weight if you’re ruthless about it.
 
-# What to Expect - Northern California
+## Northern California
+
+![NorCal](https://raw.githubusercontent.com/mattmorten/jekyll-now/master/images/Norcal.jpg)
 
 Daytime Temperatures: Very Hot
 Nighttime Temperatures: Warm
@@ -416,10 +424,12 @@ After Belden however, the surroundings take on a decidedly more "Sierra" vibe. T
 
 This was where I personally felt at my physical peak - I was hitting 30+ mile days consistently while getting excited at the prospect of the approaching Sierra Nevada mountains. 
 
-## NorCal-Sierra Boundary
+### NorCal-Sierra Boundary
 Guthook tells us the Sierra starts at South Lake Tahoe. I would strongly consider treating Sierra City as the starting point. After this, the weather cools dramatically especially at night. I wished I had mailed my cold-weather clothes to Sierra City, when I was freezing my butt off at night in the Desolation Wilderness.
 
-# What to Expect - The Sierras
+## The Sierras
+
+![Sierra Nevada](https://raw.githubusercontent.com/mattmorten/jekyll-now/master/images/Sierra.jpg)
 
 Daytime Temperatures: Warm
 Nighttime Temperatures: Very Cold!
@@ -433,20 +443,22 @@ Difficulty: Hard
 
 This is what you’ve been waiting for! The Sierras are like nothing else, so take it all in and enjoy. You’re gonna be working hard every day - big climbs over the various tall passes (Muir, Mather, Pinchot, Glen, and Forrester) will really take it out of you, and put to the test all that preparation you’ve done over the last 2 months.
 
-## Cold
+### Cold
 You’re gonna be grateful to have all your cold weather gear back, and might even want to consider packing out some extra just for this section. Temperatures at night can drop below 15F. If you don’t feel comfortable that your sleeping bag and pad are up to the challenge, you can make up for it with more clothes. Most people I hiked with said they slept in every single layer for at least one of the nights. 
 
 Campsite selection is important. Choosing a site near the top of a pass might seem tempting but you’re likely in for a windy night. Similarly, cold air will settle at the very bottom of a valley or by a flowing stream. My coldest night was at Matterhorn Creek (mile 1691) because of poor campsite selection - I didn’t sleep a wink :(
 
-## Blizzards
+### Blizzards
 Snow in the Sierras can be dangerous, especially because of the lack of options to bail to a nearby town. Keeping up to date weather forecasts can be really helpful (accepting that mountain forecasting can be a real crapshoot). Muir Trail Ranch, Tuolumne Meadows and I believe Vermillion Valley Resort will keep forecasts updated for hikers. Many emergency satellite devices have a weather forecast function. Plan where you can bail if things turn sour, and don’t be afraid to take an earlier pass if you need it.
 
-## Altitude Effects
+### Altitude Effects
 Being up between 10,000 and 13,000 ft has a significant effect on the body. Even if you don’t get sick, you’re likely to be slow and tired every day until you get used to it. If you’re feeling exhausted and don’t know why, don’t get disheartened! Your strength will come back to you over time.
 
 Don’t forget that you can lose all your gains if you spend extended time in low altitude trail towns! A good example: Bishop sits at 4,148 ft altitude. Within the next day or two you’ll be hitting 13,124 ft at Forrester Pass. 
 
-# What to Expect - SoCal
+## Southern California
+
+![SoCal](https://raw.githubusercontent.com/mattmorten/jekyll-now/master/images/Socal.jpg)
 
 Daytime Temperatures: Hot
 Nighttime Temperatures: Cold
