@@ -33,6 +33,9 @@ This guide is not the final word on all things SOBO! Everyone has different expe
 Take all of this with a grain of salt and a generous attitude. Take what is useful, leave what isn’t, and always remember - Hike Your Own Hike!
 
 ## About Shrink
+
+![PCT Trail Marker](https://raw.githubusercontent.com/mattmorten/jekyll-now/master/images/Shrink.jpg)
+
 I’m a British-born hiker in my mid-thirties. I completed a full SOBO thru-hike, all 2653 miles, in 2019. 
 
 I tagged the Northern Terminus on June 29 and reached the Southern Terminus in Campo on November 4th, a total of 129 days.
