@@ -76,9 +76,7 @@ This is an attempt to do that.
 I’ve tried to keep it mostly about things that are unique to going SOBO (except the Shrink’s General Tips section). I would recommend reading this guide *in addition* to a more general-purpose resource out there:
 
 * [Halfway Anywhere](http://halfwayanywhere.com)
-
 * [Yogi’s Guide](http://yogisbooks.com)
-
 * [PCT Subreddit](http://reddit.com/r/pacificcresttrail)
 
 Also, please do check out another *really excellent* SOBO resource:
