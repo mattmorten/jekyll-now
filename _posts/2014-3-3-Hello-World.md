@@ -390,15 +390,15 @@ This is a good strategy if you think you might want to make the single push, but
 
 ![Washington](https://raw.githubusercontent.com/mattmorten/jekyll-now/master/images/Washington.jpg)
 
-Daytime Temperatures: Warm<br/>
-Nighttime Temperatures: Cold<br/>
-Snow on ground: Yes! Micro spikes & Ice Axe might be required<br/>
-Snow from sky: No<br/>
-Rain: Very much yes!<br/>
-Bugs: Yes, awful! Many mosquitos from Stevens Pass onwards
-Elevation change: Very large
-Water: Abundant
-Difficulty: Hard
+*Daytime Temperatures:* Warm<br/>
+*Nighttime Temperatures:* Cold<br/>
+*Snow on ground:* Yes! Micro spikes & Ice Axe might be required<br/>
+*Snow from sky:* No<br/>
+*Rain:* Very much yes!<br/>
+*Bugs:* Yes, awful! Many mosquitos from Stevens Pass onwards<br/>
+*Elevation change:* Very large<br/>
+*Water:* Abundant<br/>
+*Difficulty:* Hard<br/>
 
 Washington is going to test you - physically and mentally - not least due to the weather and conditions. This state will throw at you the largest variety of conditions you will probably experience on trail. 
 
@@ -435,15 +435,15 @@ Horrendous! Especially after the first week. Some of my lowest days on trail wer
 
 ![Oregon](https://raw.githubusercontent.com/mattmorten/jekyll-now/master/images/Oregon.jpg)
 
-Daytime Temperatures: Hot
-Nighttime Temperatures: Warm
-Snow on ground: Almost none
-Snow from sky: No
-Rain: Little, but be prepared for a storm or two
-Bugs: Quite bad at the start, easing off towards the end
-Elevation change: Small - the flattest section of trail
-Water: Mostly good, but a couple of 20-mile carries comes to mind around Big Lake
-Difficulty: Easy
+*Daytime Temperatures:* Hot<br/>
+*Nighttime Temperatures:* Warm<br/>
+*Snow on ground:* Almost none<br/>
+*Snow from sky:* No<br/>
+*Rain:* Little, but be prepared for a storm or two<br/>
+*Bugs:* Quite bad at the start, easing off towards the end<br/>
+*Elevation change:* Small - the flattest section of trail<br/>
+*Water:* Mostly good, but a couple of 20-mile carries comes to mind around Big Lake<br/>
+*Difficulty:* Easy<br/>
 
 Oregon will come as a welcome respite after a difficult and draining Washington section. In some ways, it is nearly the polar opposite to WA: very flat, towns / resorts every couple of days, and mild weather. Northern OR is incredibly scenic, particularly around Mount Jefferson and the Three Sisters Wilderness. You may be able to push some big-mile days here too, making up for a more cautious start through WA.
 
@@ -467,15 +467,15 @@ You’re can potentially strip 2 - 4 lbs from your base weight if you’re ruthl
 
 ![NorCal](https://raw.githubusercontent.com/mattmorten/jekyll-now/master/images/Norcal.jpg)
 
-Daytime Temperatures: Very Hot
-Nighttime Temperatures: Warm
-Snow on ground: No
-Snow from sky: No
-Rain: Little
-Bugs: No mosquitos. Occasional gnats (around Dunsmuir / Mount Shasta) can be annoying
-Elevation change: Moderate to High
-Water: Less good. More water carries, especially in the first 300 miles.
-Difficulty: Hard
+*Daytime Temperatures:* Very Hot<br/>
+*Nighttime Temperatures:* Warm<br/>
+*Snow on ground:* No<br/>
+*Snow from sky:* No<br/>
+*Rain:* Little<br/>
+*Bugs:* No mosquitos. Occasional gnats (around Dunsmuir / Mount Shasta) can be annoying<br/>
+*Elevation change:* Moderate to High<br/>
+*Water:* Less good. More water carries, especially in the first 300 miles.<br/>
+*Difficulty:* Hard<br/>
 
 Northern California ratchets up the difficulty once again. Elevation change is fairly high, but the first thing to expect when crossing the state line into California is scorching heat and exposed sections of trail with little shade. Aside from the ever-present view of Mount Shasta (the mountain not the town), the scenery isn’t anything special. The decent into Seiad Valley, long road walk, and brutal climb is particularly testing. 
 
@@ -490,15 +490,15 @@ Guthook tells us the Sierra starts at South Lake Tahoe. I would strongly conside
 
 ![Sierra Nevada](https://raw.githubusercontent.com/mattmorten/jekyll-now/master/images/Sierra.jpg)
 
-Daytime Temperatures: Warm
-Nighttime Temperatures: Very Cold!
-Snow on ground: No
-Snow from sky: Yes
-Rain: More likely to be snow than rain
-Bugs: No
-Elevation change: High
-Water: Great - water everywhere
-Difficulty: Hard
+*Daytime Temperatures:* Warm<br/>
+*Nighttime Temperatures:* Very Cold!<br/>
+*Snow on ground:* No<br/>
+*Snow from sky:* Yes<br/>
+*Rain:* More likely to be snow than rain<br/>
+*Bugs:* No<br/>
+*Elevation change:* High<br/>
+*Water:* Great - water everywhere<br/>
+*Difficulty:* Hard<br/>
 
 This is what you’ve been waiting for! The Sierras are like nothing else, so take it all in and enjoy. You’re gonna be working hard every day - big climbs over the various tall passes (Muir, Mather, Pinchot, Glen, and Forrester) will really take it out of you, and put to the test all that preparation you’ve done over the last 2 months.
 
@@ -519,15 +519,15 @@ Don’t forget that you can lose all your gains if you spend extended time in lo
 
 ![SoCal](https://raw.githubusercontent.com/mattmorten/jekyll-now/master/images/Socal.jpg)
 
-Daytime Temperatures: Hot
-Nighttime Temperatures: Cold
-Snow on ground: No
-Snow from sky: No
-Rain: Unlikely
-Bugs: No mosquitos, some gnats
-Elevation change: Medium (San Jucinto is the exception)
-Water: Bad - expect long carries between water caches
-Difficulty: Medium
+*Daytime Temperatures:* Hot<br/>
+*Nighttime Temperatures:* Cold<br/>
+*Snow on ground:* No<br/>
+*Snow from sky:* No<br/>
+*Rain:* Unlikely<br/>
+*Bugs:* No mosquitos, some gnats<br/>
+*Elevation change:* Medium (San Jucinto is the exception)<br/>
+*Water:* Bad - expect long carries between water caches<br/>
+*Difficulty:* Medium<br/>
 
 The desert of SoCal is the longest of the 5 sections, stretching from South Kennedy Meadows to the Mexican Border, a total of ~700 miles.
 
