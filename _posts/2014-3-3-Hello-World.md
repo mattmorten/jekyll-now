@@ -99,9 +99,7 @@ I tagged the Northern Terminus on June 29 and reached the Southern Terminus in C
 2019 was one heck of a good year for us SOBOs:
 
 * A low snow year in Washington
-
 * Relatively good weather in the Sierras
-
 * No fire closures (to my knowledge)!
 
 
@@ -138,11 +136,8 @@ This goal is paramount and in the forefront of a SOBO hiker's mind. I rarely met
 The flavour of a SOBO hike is therefore characterised by:
 
 * Few zeroes
-
 * Big mile days
-
 * Pressure to hit your stride early (be very wary of this!)
-
 * Near-O and Hero through towns
 
 I believe this produces a trail culture that is quite different to the NOBO experience. There is very little "party" culture. Sometimes you will find yourself rushing through experiences that you wished you had longer to take in and enjoy. Self discipline is important. Equally, I think many people feed this discipline with an underlying guilt whenever they take any time to relax or ease off. It's a real balancing act that’s hard to get right.
@@ -158,9 +153,7 @@ I don't want to make a value judgement (though, my preferences and bias are undo
 This has been elaborated in far more detail at PCSouthbound.com. Go check it out. But briefly:
 
 * If it’s your first time on trail, and you have little experience with alpine hiking in the snow, aim to start *7 days after the snow depth at Harts Pass hits zero*
-
 * If you’re experienced with walking through snow, you may be able to start earlier. Just remember that the road up to Harts Pass may not be completely passable, requiring some extra miles walking.
-
 * Anywhere between July 1 and July 7 is a good bet
 
 ## 2020 Permitting Changes
@@ -428,9 +421,7 @@ The conventional wisdom is to choose a start date at least 7 days after the snow
 I found it hard to get good information about particular passes and sections - did we need the axe? Did we need the spikes?
 
 * I would always recommend carrying spikes for the first 3 weeks.
-
 * While at Harts Pass, ask people coming back from tagging the border about the snow conditions. You can leave unneeded equipment at the Harts Pass ranger station, and pick it up on your return.
-
 * Check Guthook comments for Rock Pass (mile 13.6) Fire Creek Pass (mile 133.1)
 
 ### Rain
@@ -440,13 +431,9 @@ Don’t be surprised if you are rained on at least once each day from Harts Pass
 Horrendous! Especially after the first week. Some of my lowest days on trail were due to bugs. You can barely take a 5 minute rest before you are consumed by a cloud of flying monsters. Get used to setting up your tent in record time, quickly leaping through the door, and spending the next 5 minutes squishing all the mosquitos that got inside.
 
 * Bring a bug head-net
-
 * Bring long wind or rain pants, or even bug-net pants
-
 * Bring gloves
-
 * Bring DEET
-
 * Don’t let it get you down - they are mostly gone by Oregon
 
 ## Oregon
@@ -469,19 +456,14 @@ Oregon will come as a welcome respite after a difficult and draining Washington 
 This might be the time to start considering switching out your cold-weather gear for lighter warm-weather options. Or at the very least mailing some unnecessary layers forward to Sierra City. The weather for the next 800 miles is going to be much warmer. Think about mailing out:
 
 * Fleece or puffy (you only need one)
-
 * Rain pants (unless this is your bug protection for your legs)
-
 * Long sleeping underwear bottoms
-
 * Long sleeve sleeping top (can be switched for t-shirt or something light)
-
 * Gloves, woolly hat, balaclava
 
 Additionally, maybe switching out:
 
 * A heavy sleeping bag for something in the 30 - 40 degree range
-
 * A heavy pad for a short pad
 
 You’re can potentially strip 2 - 4 lbs from your base weight if you’re ruthless about it.
@@ -582,7 +564,6 @@ These aren’t SOBO specific, but are just general things I picked up along the 
 This is the cause of the so much stress on the trail:
 
 * I’m meeting friend X on date Y at mile Z so we can hike together
-
 * I need to be at town A by date B so I can go to a friend’s wedding in C
 
 I can’t stress enough how much pressure this can put you under! It’s not easy to plan to be at an exact place on an exact date. You’ll be stressing about it weeks beforehand. You might need to leave your trail family if you have one. You might feel pressured to make up crazy miles before or after.
@@ -618,17 +599,11 @@ For other retailers - you’ll have to find out if they ship USPS or UPS. POs ge
 ### Misc. Resupply Tips
 
 * Go to Trout Lake! It’s a cute town, great milkshakes, and splits up the 150 miles between White Pass and Cascade Locks.
-
 * Portland is great, but you’ll spend much of your day trying to get around the city. Consider Hood River instead. It’s a fun town and easy enough to navigate.
-
 * For shipping out boxes, private all-in-one stores like Postal Annex are super convenient: you can ship USPS, UPS and FEDEX from one place.
-
 * Download all the apps (USPS, UPS, FEDEX) and always enter tracking numbers when you get them.
-
 * Never put Tide Pods in your resupply boxes! They will make everything in your box taste of Tide.
-
 * For your boxes in WA, less is more! You won’t have hiker hunger yet. You can usually supplement with more food if you need it from stores. Hiker Boxes are notoriously full in WA.
-
 * Make your WA boxes before you go. The rest can be made up while you’re on trail, from bigger towns (Hood River, Ashland, Mt Shasta, Tehachapi). Your OR and CA boxes will be far nicer and more attuned to your needs.
 
 ## Hitchhiking
@@ -641,15 +616,10 @@ When I started out I was pretty nervous about the whole thing. Looking back, I r
 These tips are pretty generic, but I hope they are helpful:
 
 * The optimal number of hitchers to a ride is probably 2 or 3. You’ll feel safer as a group, but too large a group and you might put off a passing driver.
-
 * Women seem to have a better chance of getting a hitch than men, so it makes sense for them to be in front when on the side of the road.
-
 * Look presentable! Make sure you’ve brushed your teeth that morning.
 
 * Packs out in front of you at your feet. This shows you are a hiker. Hikers get hitches quicker than hobos do.
-
 * Hitches into and out of trail towns are usually easy - the locals know what you’re doing and likely want to help you. If you’re trying to get somewhere further away from trail, you might have a harder time of it.
-
 * Location is key. Make sure the driver has somewhere safe to pull over behind you. Make sure you’re visible when they are coming towards you - blind corners aren’t good hitching places.
-
 * Smile! :)
