@@ -336,9 +336,9 @@ The hitch can be a bit gnarly. A few hikers this year paid for Sonora Pass Resup
 
 ## Example Strategies
 ### The Default
-|Pre-planning: none|
-|Time: consuming|
-|Cost overhead: none|
+Pre-planning: none
+Time: consuming
+Cost overhead: none
 
 | Location | On / Off Trail | Type | Miles to Next Resupply |
 |---|---|---|---|
@@ -390,11 +390,11 @@ This is a good strategy if you think you might want to make the single push, but
 
 ![Washington](https://raw.githubusercontent.com/mattmorten/jekyll-now/master/images/Washington.jpg)
 
-Daytime Temperatures: Warm
-Nighttime Temperatures: Cold
-Snow on ground: Yes! Micro spikes & Ice Axe might be required
-Snow from sky: No
-Rain: Very much yes!
+Daytime Temperatures: Warm<br/>
+Nighttime Temperatures: Cold<br/>
+Snow on ground: Yes! Micro spikes & Ice Axe might be required<br/>
+Snow from sky: No<br/>
+Rain: Very much yes!<br/>
 Bugs: Yes, awful! Many mosquitos from Stevens Pass onwards
 Elevation change: Very large
 Water: Abundant
@@ -583,7 +583,9 @@ If you don’t mind giving your money to billionaires, Amazon is very convenient
 
 The Amazon site often complains about General Delivery addresses, but they always work totally fine. The best solution I found is:
 
-/Your Account/ -> /Your Addresses/ -> /Add New Address/ -> (Type the address in) -> /Add Address/ -> /(Amazon might say it doesn’t recognise the address)/ -> /Click Add Address a second time/ -> /It works!/
+```
+Your Account -> Your Addresses -> Add New Address -> (Type the address in) -> Add Address -> (Amazon might say it doesn’t recognise the address) -> Click Add Address a second time -> It works!
+```
 
 For other retailers - you’ll have to find out if they ship USPS or UPS. POs generally only accept UPS. Guthook will tell you which private businesses accept which delivery method.
 
@@ -613,9 +615,15 @@ When I started out I was pretty nervous about the whole thing. Looking back, I r
 These tips are pretty generic, but I hope they are helpful:
 
 * The optimal number of hitchers to a ride is probably 2 or 3. You’ll feel safer as a group, but too large a group and you might put off a passing driver.
+
 * Women seem to have a better chance of getting a hitch than men, so it makes sense for them to be in front when on the side of the road.
+
 * Look presentable! Make sure you’ve brushed your teeth that morning.
+
 * Packs out in front of you at your feet. This shows you are a hiker. Hikers get hitches quicker than hobos do.
+
 * Hitches into and out of trail towns are usually easy - the locals know what you’re doing and likely want to help you. If you’re trying to get somewhere further away from trail, you might have a harder time of it.
-* Placement is key. Make sure the driver has somewhere safe to pull over behind you. Make sure you’re visible when they are coming towards you - blind corners aren’t good hitching places.
+
+* Location is key. Make sure the driver has somewhere safe to pull over behind you. Make sure you’re visible when they are coming towards you - blind corners aren’t good hitching places.
+
 * Smile! :)
