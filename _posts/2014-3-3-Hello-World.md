@@ -250,6 +250,8 @@ Thousands of people have come before you, successfully completed their hike, and
 
 # The first 3 weeks
 
+![Snow](https://raw.githubusercontent.com/mattmorten/jekyll-now/master/images/Snow.jpg)
+
 NOBOs have a big advantage at the start of their hike. They have no big deadline to hit yet and they start in some moderate terrain / elevation.
 
 SOBOs don’t have that luxury!
@@ -273,6 +275,8 @@ The first few weeks are going to be incredibly visceral. A relentless tide of me
 Take it easy. Spend an extra day in town if you need it. Vocalise your thoughts: there’s a good chance others are feeling the same way. You’re not out there alone - there’s a community of people there to support you.
 
 # Sierra Resupply Guide
+
+![Sick Mountains!](https://raw.githubusercontent.com/mattmorten/jekyll-now/master/images/SierraResupply.jpg)
 
 As I approached the end of NorCal, I found myself unprepared for how to get through the Sierra. I hadn’t really given much thought about resupply because up until then it was pretty easy - I could do much of it on trail, there were plenty of trail towns to choose from, and no passes to exit from.
 
@@ -564,6 +568,8 @@ This is the cause of the so much stress on the trail:
 I can’t stress enough how much pressure this can put you under! It’s not easy to plan to be at an exact place on an exact date. You’ll be stressing about it weeks beforehand. You might need to leave your trail family if you have one. You might feel pressured to make up crazy miles before or after.
 
 ## Resupply
+
+![Shopping Cart](https://raw.githubusercontent.com/mattmorten/jekyll-now/master/images/Shopping.jpg)
 
 ### Shipping - PO vs Private Business
 In some towns you’ll have an option to ship to the Post Office, or ship to a private business (hotel, general store, trail angel etc.) for an additional fee.
