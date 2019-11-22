@@ -285,6 +285,9 @@ The Sierra is a section worth taking time to plan for ahead of time! Even if you
 
 ## Things to think about
 ### Exit Points
+
+![The Passes](https://raw.githubusercontent.com/mattmorten/jekyll-now/master/images/Passes.jpg)
+
 The Sierra is unique in that the trail does not cross many town-accessible roads, particularly between Red’s Meadow and South Kennedy Meadows. This means that any resupply must be done on-trail at one of the resorts (VVR or MTR), or by "exiting" using a trail that intersects the PCT.
 
 The two commonly-used exit points are Kearsarge Pass (7.5 miles) and Bishop Pass (12 miles). Both are *hard work* - you can treat both of as normal "pass" attempts in the Sierras, such as Muir or Forrester Pass. They involve a steep climb up to a high peak (> 11,000 ft), then drop down to the trailhead.
@@ -298,7 +301,7 @@ And you have to get back and do it all again.
 All this makes the Bishop exit easily a 2-day affair.
 
 ### The Resorts - handy, but expensive
-There are two mountain resorts located pretty much on-trail: Vermillion Valley Resort (VVR) and Muir Trail Ranch (MTR). Both are essentially mail-resupply only. They are very convenient! But you must prep these resupplies ahead of time if you want to use them.
+There are two mountain resorts located pretty much on-trail: [Vermillion Valley Resort (VVR)](http://www.edisonlake.com/hikers/resupply) and [Muir Trail Ranch (MTR)](http://www.muirtrailranch.com/resupply.html). Both are essentially mail-resupply only. They are very convenient! But you must prep these resupplies ahead of time if you want to use them.
 
 Furthermore, they are expensive! For VVR, at the time of writing (2020 season) according to the website:
 
@@ -341,9 +344,9 @@ The hitch can be a bit gnarly. A few hikers this year paid for Sonora Pass Resup
 
 ## Example Strategies
 ### The Default
-Pre-planning: none
-Time: consuming
-Cost overhead: none
+Pre-planning: none<br/>
+Time: consuming<br/>
+Cost overhead: none<br/>
 
 | Location | On / Off Trail | Type | Miles to Next Resupply |
 |---|---|---|---|
@@ -356,9 +359,9 @@ Requires zero ahead-of-time planning, so very popular. Adds normally another 2-3
 /Variation: send a box to Red’s Meadow instead of hitching to Mammoth Lakes/
 
 ### The Single Push
-Pre-planning: a lot
-Time: speedy
-Cost overhead: a lot
+Pre-planning: a lot<br/>
+Time: speedy<br/>
+Cost overhead: a lot<br/>
 
 | Location | On / Off Trail | Type | Miles to Next Resupply |
 |---|---|---|---|
@@ -369,9 +372,9 @@ Cost overhead: a lot
 /Variation: send a box to Tuolumne Meadows instead of Red’s meadow. It spaces out the resupply stops better, however TM post office is closed for much of the weekend, and I know a bunch of people who got caught out by this!/
 
 ### The Roll-the-Dice
-Pre-planning: not much
-Time: Depends on if you pull it off 
-Cost overhead: none
+Pre-planning: not much<br/>
+Time: Depends on if you pull it off<br/>
+Cost overhead: none<br/>
 
 It is common knowledge that MTR has amazing hiker boxes, full of food that JMT hikers have overpacked for their trip! I’ve heard of cornucopias of Mountain House meals ready to be packed out.
 
