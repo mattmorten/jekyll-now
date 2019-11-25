@@ -120,16 +120,18 @@ This is a personal preference, it's not a value judgement on those who are looki
 It’s a fact of the trail that many people decide to end their thru-hike within the first month. If that is the case for you, at least you will have experienced hiking through Washington, one of the most incredible portions of the trail. And the beauty begins right away - the first 30 miles from Harts Pass to the Northern Terminus consistently ranks as one of the most favourite trail sections.
 
 ## A cool Desert
-Going NOBO through the desert in April / May is a gruelling experience. You have to be prepared for 100+ degree days
+Going NOBO through the desert in April / May is a gruelling experience. You have to be prepared for 100+ degree days and often little shade.
+
+SOBOs will hike through the desert in October and November, when daytime temperatures are likely to stay in the 70s, with lows in the 30s and 40s at night.
 
 ## Snow-free Sierras
 Once you reach the Sierra Nevada in September, almost all of the settled snow will have melted. There won’t be any bugs. Passes should be easy. You’ll be in great physical shape and ready to knock out 25+ mile days.
 
 # Urgency and its effects on Trail Culture
 
-Urgency is huge component of a SOBO thru-hike. You _must_ be through the Sierras before the winter snow sets in for the winter.
+Urgency is a huge component of a SOBO thru-hike. You _must_ be through the Sierras before the winter snow sets in for the winter.
 
-A standard SOBO attempt will begin around the July 1 mark. The received wisdom tells us that the Sierra snows will arrive somewhere near October 15th. None of this is set in stone! But using this as a rough guide, a hiker will have approximately 100 days to go 1,800 miles.
+A standard SOBO attempt might begin around July 1. The received wisdom tells us that the Sierra snows will arrive somewhere near October 15th. None of this is set in stone! But using this as a rough guide, a hiker will have approximately 100 days to go 1,800 miles to Forester Pass, after which they descend out of the Sierras into the desert.
 
 This goal is paramount and in the forefront of a SOBO hiker's mind. I rarely met people who didn't have at least some background anxiety about making it in time.  
 
@@ -152,8 +154,8 @@ I don't want to make a value judgement (though, my preferences and bias are undo
 
 This has been elaborated in far more detail at PCSouthbound.com. Go check it out. But briefly:
 
-* If it’s your first time on trail, and you have little experience with alpine hiking in the snow, aim to start *7 days after the snow depth at Harts Pass hits zero*
-* If you’re experienced with walking through snow, you may be able to start earlier. Just remember that the road up to Harts Pass may not be completely passable, requiring some extra miles walking.
+* If it’s your first time on trail, and you have little experience with alpine hiking in the snow, aim to start *7 days after the snow depth at Harts Pass hits zero*. You can find current snow levels for Harts Pass [here](https://www.nwrfc.noaa.gov/snow/snowplot.cgi?HRPW1)
+* If you’re experienced with walking through snow, you may be able to start earlier. Just remember that the road up to Harts Pass may not be completely passable, requiring some extra miles of walking.
 * Anywhere between July 1 and July 7 is a good bet
 
 ## 2020 Permitting Changes
@@ -161,7 +163,7 @@ For the 2020 season, the PCTA has restricted the number of daily permits for SOB
 
 When applying for your SOBO permit, you will have no idea what the snow conditions are going to be like for that season. It will be impossible to precisely predict when to start.
 
-I have some personal feeling about the strict rules regarding start dates for SOBO hikers. I don’t believe people should be risking their lives to start on their permit date if the snow conditions are worse than they are comfortable with.
+I have some personal feelings about the strict rules regarding start dates for SOBO hikers. I don’t believe people should be risking their lives to start on their permit date if the snow conditions are worse than they are comfortable with.
 
 # The Snow Deadline
 
@@ -169,9 +171,9 @@ The Sierra snow deadline is the key date to keep in your mind: approximately Oct
 
 It’s impossible to know exactly when the snow is going to arrive each year. There will be early snows that may last a day or two, but don’t signal the end of the season. 
 
-You don’t have to get all the way to South Kenn by the time the snow settles in. *You will want to have completed Forrester Pass* by that time. This gives you a few extra days to play with.
+You don’t have to get all the way to South Kenn by the time the snow settles in. *You will want to have completed Forester Pass* by that time. This gives you a few extra days to play with.
 
-Work your way back from that date.  Give yourself *2.5 weeks to get from South Lake Tahoe to Forrester Pass*.
+Work your way back from that date.  Give yourself *2.5 weeks to get from South Lake Tahoe to Forester Pass*.
 
 That means *finishing NorCal by around September 25th*
 
@@ -185,9 +187,9 @@ I found two different approaches to how people selected gear for the trail:
 2. Five separate hikes
 
 ## One continuous hike
-You have one set of equipment to through from Canada to Mexico, through all environments, temperatures, and weather conditions. This comes with the clear benefit of simplicity - you don’t have to spend as much money and no swapping in and out is required. There's rarely a chance you'll be caught off-guard by conditions. One friend I hiked with on the trail described it as a purer experience, citing that one should be covered in all situations.
+You have one set of equipment to carry from Canada to Mexico, through all environments, temperatures, and weather conditions. This comes with the clear benefit of simplicity - you don’t have to spend as much money and no swapping in and out is required. There's rarely a chance you'll be caught off-guard by conditions. One friend I hiked with on the trail described it as a purer experience, citing that one should be covered in all situations.
 
-The obvious downside here is that for much of the trail you'll be carrying things that are overkill for your environment. Having a heavy, warm, 10 degree sleeping bag is largely unnecessary for the majority of Oregon and Northern California. A double wall shelter in the Desert is overkill when it barely rains and there are no nighttime bugs. On my thru-hike in 2019, I didn't set up my shelter once after Mount Witney. That's 750 miles carrying an item that could be switched out for something much lighter such as a tarp.
+The obvious downside here is that for much of the trail you'll be carrying things that are overkill for your environment. Having a heavy, warm, 10 degree sleeping bag is largely unnecessary for the majority of Oregon and Northern California. A double wall shelter in the Desert is overkill when it barely rains and there are no nighttime bugs. On my thru-hike in 2019, I didn't set up my shelter once after Mount Whitney. That's 750 miles carrying an item that could be switched out for something much lighter such as a tarp.
 
 ## Five separate hikes
 If you have the luxury of owning multiple pieces of gear that are suited to different seasons, my personal recommendation is treating the trip as though you were doing 5 separate hikes. Each "section" (Washington, Oregon, NorCal, Sierra, SoCal) brings different weather conditions, bug intensity and temperature variations.
@@ -202,7 +204,7 @@ Here is a breakdown of each section and some ideas of what gear might be swapped
 | Sierra | Snow, very cold, no bugs | Shelter without bug protection. Be ready for snow. Heavy bag and pad. Warm sleep layers! |
 | SoCal | Dry, somewhat cold, no bugs | Minimal shelter. Some warm layers |
 
-This strategy requires thought, planning, additional expense (in terms of equipment costs and mailing fees), a small amount of additional risk of things not being there when you need, and a lower tolerance for weather variations.
+This strategy requires thought, planning, additional expense (in terms of equipment costs and mailing fees), a small amount of additional risk of things not being there when you need, and a higher tolerance for weather variations.
 
 However the upside is a much lower pack weight! If you're planning on going ultralight, this strategy should be seriously considered. I think a common theme amongst hikers I met on the trail was thinking about what they were carrying and what they didn't need. It's a very gratifying feeling to know you are carrying only what you need, knowing what you can do without. It becomes a mindset, one that I've found useful back in regular life.
 
@@ -222,10 +224,10 @@ I was sacrificing my mental wellbeing by putting extra pressure on myself.
 
 Take an honest look at your physical condition. Are you someone who integrates fitness and activity into their life already? Do you run / hike / lift / climb in your regular life? If you do, then I feel like you can make up any fitness gap on the trail itself, even in the tough Washington environment. Any extra preparation you do is a bonus.
 
-If you live an inactive life or find cardiovascular exercise difficult, then I think fitness preparation is incredibly important and should be absolutely your number one priority pre-trail. You're going to be thrown into the deep end on a SOBO hike.
+If you live an inactive life or find cardiovascular exercise difficult, then I think fitness preparation is incredibly important and should be your number one priority pre-trail. You're going to be thrown into the deep end on a SOBO hike.
 
 ## Injury Management
-If you have any pre-existing injuries that you suspect may reoccur on the trail, *this* should be your primary concern. Injuries, particularly stress-related such as shin splints, plantar fasciitis, or anything achilles related are hugely prevalent on the trail and commonly end people's adventures barely after they started. 
+If you have any pre-existing injuries that you suspect may reoccur on the trail, *this* should be your primary concern. Injuries, particularly stress-related such as shin splints, plantar fasciitis, or anything achilles related, are hugely prevalent on the trail and commonly end people's adventures barely after they started. 
 
 The trail is going to beat your body into a pulp in the first month. It's going to break down before it has time to adapt. 
 
@@ -274,6 +276,8 @@ Don’t get hurt while you’re still soft clay.
 The first few weeks are going to be incredibly visceral. A relentless tide of meeting people, learning new skills, and finding your limits. There’s a good chance you might start doubting yourself, feeling homesick, wondering what the f**k you’re doing out here.
 
 Take it easy. Spend an extra day in town if you need it. Vocalise your thoughts: there’s a good chance others are feeling the same way. You’re not out there alone - there’s a community of people there to support you.
+
+The transition from regular life to trail life can be jarring at first. If you're feeling out of your depth, give yourself at least 3 weeks before making the decision to leave the trail. You're brain might be screaming at you to trade in those trail runners for your old, comfortable life. Stick it out as long as you can! There's no shame in quitting, but make sure you've given it a real chance first.
 
 # Sierra Resupply Guide
 
@@ -450,10 +454,10 @@ Horrendous! Especially after the first week. Some of my lowest days on trail wer
 *Rain:* Little, but be prepared for a storm or two<br/>
 *Bugs:* Quite bad at the start, easing off towards the end<br/>
 *Elevation change:* Small - the flattest section of trail<br/>
-*Water:* Mostly good, but a couple of 20-mile carries comes to mind around Big Lake<br/>
+*Water:* Mostly good, but a couple of 20-mile carries come to mind around Big Lake<br/>
 *Difficulty:* Easy<br/>
 
-Oregon will come as a welcome respite after a difficult and draining Washington section. In some ways, it is nearly the polar opposite to WA: very flat, towns / resorts every couple of days, and mild weather. Northern OR is incredibly scenic, particularly around Mount Jefferson and the Three Sisters Wilderness. You may be able to push some big-mile days here too, making up for a more cautious start through WA.
+Oregon will come as a welcomed respite after a difficult and draining Washington section. In some ways, it is nearly the polar opposite to WA: very flat, towns / resorts every couple of days, and mild weather. Northern OR is incredibly scenic, particularly around Mount Jefferson and the Three Sisters Wilderness. You may be able to push some big-mile days here too, making up for a more cautious start through WA.
 
 ### Switching Gear
 This might be the time to start considering switching out your cold-weather gear for lighter warm-weather options. Or at the very least mailing some unnecessary layers forward to Sierra City. The weather for the next 800 miles is going to be much warmer. Think about mailing out:
@@ -469,7 +473,7 @@ Additionally, maybe switching out:
 * A heavy sleeping bag for something in the 30 - 40 degree range
 * A heavy pad for a short pad
 
-You’re can potentially strip 2 - 4 lbs from your base weight if you’re ruthless about it.
+You can potentially strip 2 - 4 lbs from your base weight if you’re ruthless about it.
 
 ## Northern California
 
@@ -508,7 +512,7 @@ Guthook tells us the Sierra starts at South Lake Tahoe. I would strongly conside
 *Water:* Great - water everywhere<br/>
 *Difficulty:* Hard<br/>
 
-This is what you’ve been waiting for! The Sierras are like nothing else, so take it all in and enjoy. You’re gonna be working hard every day - big climbs over the various tall passes (Muir, Mather, Pinchot, Glen, and Forrester) will really take it out of you, and put to the test all that preparation you’ve done over the last 2 months.
+This is what you’ve been waiting for! The Sierras are like nothing else, so take it all in and enjoy. You’re gonna be working hard every day - big climbs over the various tall passes (Muir, Mather, Pinchot, Glen, and Forester) will really take it out of you, and put to the test all that preparation you’ve done over the last 2 months.
 
 ### Cold
 You’re gonna be grateful to have all your cold weather gear back, and might even want to consider packing out some extra just for this section. Temperatures at night can drop below 15F. If you don’t feel comfortable that your sleeping bag and pad are up to the challenge, you can make up for it with more clothes. Most people I hiked with said they slept in every single layer for at least one of the nights. 
@@ -533,7 +537,7 @@ Don’t forget that you can lose all your gains if you spend extended time in lo
 *Snow from sky:* No<br/>
 *Rain:* Unlikely<br/>
 *Bugs:* No mosquitos, some gnats<br/>
-*Elevation change:* Medium (San Jucinto is the exception)<br/>
+*Elevation change:* Medium (San Jacinto is the exception)<br/>
 *Water:* Bad - expect long carries between water caches<br/>
 *Difficulty:* Medium<br/>
 
@@ -593,9 +597,16 @@ If you don’t mind giving your money to billionaires, Amazon is very convenient
 
 The Amazon site often complains about General Delivery addresses, but they always work totally fine. The best solution I found is:
 
-```
-Your Account -> Your Addresses -> Add New Address -> (Type the address in) -> Add Address -> (Amazon might say it doesn’t recognise the address) -> Click Add Address a second time -> It works!
-```
+
+1. Your Account
+2. Your Addresses
+3. Add New Address
+4. (Type the address in)
+5. Add Address
+6. (Amazon might say it doesn’t recognise the address)
+7. Click Add Address a second time
+8. It works!
+
 
 For other retailers - you’ll have to find out if they ship USPS or UPS. POs generally only accept UPS. Guthook will tell you which private businesses accept which delivery method.
 
@@ -621,7 +632,6 @@ These tips are pretty generic, but I hope they are helpful:
 * The optimal number of hitchers to a ride is probably 2 or 3. You’ll feel safer as a group, but too large a group and you might put off a passing driver.
 * Women seem to have a better chance of getting a hitch than men, so it makes sense for them to be in front when on the side of the road.
 * Look presentable! Make sure you’ve brushed your teeth that morning.
-
 * Packs out in front of you at your feet. This shows you are a hiker. Hikers get hitches quicker than hobos do.
 * Hitches into and out of trail towns are usually easy - the locals know what you’re doing and likely want to help you. If you’re trying to get somewhere further away from trail, you might have a harder time of it.
 * Location is key. Make sure the driver has somewhere safe to pull over behind you. Make sure you’re visible when they are coming towards you - blind corners aren’t good hitching places.
