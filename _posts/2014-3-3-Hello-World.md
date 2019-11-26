@@ -69,7 +69,7 @@ table tbody tr:last-child td {
 ## What is this guide?
 There are *tonnes* of good resources online and in print about the PCT. In fact, much of what I’ve written here is probably available in some Reddit post or Blog entry somewhere. 
 
-However, I honestly feel there’s a lack of decent *SOBO-specific information* that is collated into *one place*.
+However, I honestly feel there’s a lack of decent *SOBO-specific information* that is collated into *one resource*.
 
 This is an attempt to do that. 
 
@@ -92,15 +92,15 @@ Take all of this with a grain of salt and a generous attitude. Take what is usef
 
 ![Shrink at the Southern Terminus](https://raw.githubusercontent.com/mattmorten/jekyll-now/master/images/Shrink.jpg)
 
-I’m a British-born hiker in my mid-thirties. I completed a full SOBO thru-hike, all 2653 miles, in 2019. 
+I’m a British-born hiker in my mid-thirties. I completed a full SOBO thru-hike, all 2,653 miles, in 2019. 
 
 I tagged the Northern Terminus on June 29 and reached the Southern Terminus in Campo on November 4th, a total of 129 days.
 
-2019 was one heck of a good year for us SOBOs:
+2019 was a great year for us SOBOs:
 
 * A low snow year in Washington
 * Relatively good weather in the Sierras
-* No fire closures (to my knowledge)!
+* Few if any fire closures
 
 
 Thru-hiking has enriched my life in so many ways. It has been the journey of a lifetime. To those who I walked with, it was a pleasure.
@@ -531,7 +531,7 @@ Don’t forget that you can lose all your gains if you spend extended time in lo
 
 ![SoCal](https://raw.githubusercontent.com/mattmorten/jekyll-now/master/images/Socal.jpg)
 
-*Daytime Temperatures:* Hot<br/>
+*Daytime Temperatures:* Mostly warm, some hot days<br/>
 *Nighttime Temperatures:* Cold<br/>
 *Snow on ground:* No<br/>
 *Snow from sky:* No<br/>
