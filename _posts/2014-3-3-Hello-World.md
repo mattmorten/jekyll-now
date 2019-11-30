@@ -107,22 +107,22 @@ Thru-hiking has enriched my life in so many ways. It has been the journey of a l
 
 # Why SOBO?
 
-I’m unabashedly biased - I think the SOBO experience is incredible, and I want to shout it from the rooftops to anyone who will listen!
+I’m biased - I think the SOBO experience is incredible, and I want to shout it from the rooftops to anyone who will listen.
 
 ## NOBO Crowds
-In recent years the PCTA has released 50 permits per day throughout the the Northbound season. In 2018, 4500 Northbound thru-hike permits were issued. That is in contrast to 491 Southbound permits for the same year.
+In recent years the PCTA has released 50 permits per day throughout the the Northbound season. In 2018, 4,500 Northbound thru-hike permits were issued. That is in contrast to 491 Southbound permits for the same year.
 
-The PCT going NOBO is crowded. The popularity of the trail has skyrocketed in the years since Wild was released in cinemas. Personally, this detracts from the experience I set out for when I did my hike: adventure, independence, self sufficiency, connection with nature, peacefulness. This was the defining issue for me. I don't want to be squeezing 15 people into a 4-person tent site. I don't want to be hurrying into town early to get the few remaining hotel rooms. I don't want to be part of a herd.
+The PCT going NOBO is crowded. The popularity of the trail has skyrocketed in the years since Wild was released in cinemas. Personally, this detracts from the experience I was searching for: adventure, independence, self sufficiency, connection with nature, peacefulness. This was the defining issue for me. I don't want to be squeezing 15 people into a 4-person tent site. I don't want to be hurrying into town early to get the few remaining hotel rooms. I don't want to be part of a herd.
 
-This is a personal preference, it's not a value judgement on those who are looking for something different. 
+This is a personal preference, it's not a value judgement on those who are looking for something different.
 
 ## Washington
-It’s a fact of the trail that many people decide to end their thru-hike within the first month. If that is the case for you, at least you will have experienced hiking through Washington, one of the most incredible portions of the trail. And the beauty begins right away - the first 30 miles from Harts Pass to the Northern Terminus consistently ranks as one of the most favourite trail sections.
+It’s a fact of the trail that many people choose to end their thru-hike within the first month. If that is the case for you, at least you will have experienced hiking through Washington, one of the most incredible portions of the trail. And the beauty begins right away - the first 30 miles from Harts Pass to the Northern Terminus consistently ranks as one of the most favourite trail sections.
 
 ## A cool Desert
 Going NOBO through the desert in April / May is a gruelling experience. You have to be prepared for 100+ degree days and often little shade.
 
-SOBOs will hike through the desert in October and November, when daytime temperatures are likely to stay in the 70s, with lows in the 30s and 40s at night.
+SOBOs will hike through the desert in October and November, when daytime temperatures are likely to stay in the 70s and 80s, with lows in the 30s and 40s at night.
 
 ## Snow-free Sierras
 Once you reach the Sierra Nevada in September, almost all of the settled snow will have melted. There won’t be any bugs. Passes should be easy. You’ll be in great physical shape and ready to knock out 25+ mile days.
@@ -140,19 +140,19 @@ The flavour of a SOBO hike is therefore characterised by:
 * Few zeroes
 * Big mile days
 * Pressure to hit your stride early (be very wary of this!)
-* Near-O and Hero through towns
+* Brief town stops
 
-I believe this produces a trail culture that is quite different to the NOBO experience. There is very little "party" culture. Sometimes you will find yourself rushing through experiences that you wished you had longer to take in and enjoy. Self discipline is important. Equally, I think many people feed this discipline with an underlying guilt whenever they take any time to relax or ease off. It's a real balancing act that’s hard to get right.
+I believe this produces a trail culture that is quite different to the NOBO experience. There is very little "party" culture. Sometimes you will find yourself rushing through experiences that you wished you had longer to take in and enjoy. Self discipline is important. It can be easy to feel guilty when you're not walking (a feeling that stayed with me even after I finished the trail)!
 
-However, there are also real positives that come from being part of the SOBO community. Most people are there because of a specific reason to go South, not just by default. Anecdotally I would say the level of experience and preparedness is higher. I had a really great time meeting people that had a focus and drive that matched my own.
+There are also real positives that come from being part of the SOBO community. Most people are there because of a specific reason to go South, not just by default. Anecdotally I would say the level of experience and preparedness is higher. I had a really great time meeting people that had a focus and drive that matched my own.
 
-Also anecdotally, people seemed less likely to be grouped into large Trail Families. Most people I met were looking for some degree of solitude, which would allow them better to connect with the surrounding nature. Several times I ran into oncoming NOBOs who travelled in groups of 8 to 12, which felt completely anathema as a SOBO. Many SOBO hikers I spoke to really valued their independence and didn't want to compromise their drive to reach the Southern Terminus.
+I didn't really see any large Trail Families. Most people I met were looking for some degree of solitude, which would allow them better to connect with the surrounding nature. Several times I ran into oncoming NOBOs who travelled in groups of 8 to 12, which felt completely anathema as a SOBO. Many SOBO hikers I spoke to really valued their independence and didn't want to compromise their drive to reach the Southern Terminus. If their group was walking too slow, it was time to push on ahead alone. You'll always meet more hikers ahead of you.
 
-I don't want to make a value judgement (though, my preferences and bias are undoubtedly clear). Different experiences are right for different people. Make a conscious decision - what am I looking for from my thru-hike? 
+I don't want to make a value judgement. Different experiences are right for different people. Make a conscious decision - what am I looking for from my thru-hike? 
 
 # Choosing a Start Date
 
-This has been elaborated in far more detail at PCSouthbound.com. Go check it out. But briefly:
+This has been elaborated in far more detail at [PCT Southbound](http://pctsouthbound.com). Go check it out. But briefly:
 
 * If it’s your first time on trail, and you have little experience with alpine hiking in the snow, aim to start *7 days after the snow depth at Harts Pass hits zero*. You can find current snow levels for Harts Pass [here](https://www.nwrfc.noaa.gov/snow/snowplot.cgi?HRPW1)
 * If you’re experienced with walking through snow, you may be able to start earlier. Just remember that the road up to Harts Pass may not be completely passable, requiring some extra miles of walking.
@@ -171,7 +171,7 @@ The Sierra snow deadline is the key date to keep in your mind: approximately Oct
 
 It’s impossible to know exactly when the snow is going to arrive each year. There will be early snows that may last a day or two, but don’t signal the end of the season. 
 
-You don’t have to get all the way to South Kenn by the time the snow settles in. *You will want to have completed Forester Pass* by that time. This gives you a few extra days to play with.
+You don’t have to get all the way to South Kennedy Meadows by the time the snow settles in. *You will want to have completed Forester Pass* by that time. This gives you a few extra days to play with.
 
 Work your way back from that date.  Give yourself *2.5 weeks to get from South Lake Tahoe to Forester Pass*.
 
@@ -187,12 +187,12 @@ I found two different approaches to how people selected gear for the trail:
 2. Five separate hikes
 
 ## One continuous hike
-You have one set of equipment to carry from Canada to Mexico, through all environments, temperatures, and weather conditions. This comes with the clear benefit of simplicity - you don’t have to spend as much money and no swapping in and out is required. There's rarely a chance you'll be caught off-guard by conditions. One friend I hiked with on the trail described it as a purer experience, citing that one should be covered in all situations.
+You choose one set of equipment to carry from Canada to Mexico, through all environments, temperatures, and weather conditions. This comes with the clear benefit of simplicity - you don’t have to spend as much money and no swapping in and out is required. There's rarely a chance you'll be caught off-guard by conditions. One friend I hiked with on the trail described it as more "pure" experience.
 
-The obvious downside here is that for much of the trail you'll be carrying things that are overkill for your environment. Having a heavy, warm, 10 degree sleeping bag is largely unnecessary for the majority of Oregon and Northern California. A double wall shelter in the Desert is overkill when it barely rains and there are no nighttime bugs. On my thru-hike in 2019, I didn't set up my shelter once after Mount Whitney. That's 750 miles carrying an item that could be switched out for something much lighter such as a tarp.
+The obvious downside here is that for much of the trail you'll be carrying things that are overkill for your environment. Having a heavy, warm, 10 degree F sleeping bag is largely unnecessary for the majority of Oregon and Northern California. A double wall shelter in the Desert is overkill when it barely rains and there are no nighttime bugs. On my thru-hike in 2019, I didn't set up my shelter once after Mount Whitney. That's 750 miles carrying an item that could be switched out for something much lighter such as a tarp.
 
 ## Five separate hikes
-If you have the luxury of owning multiple pieces of gear that are suited to different seasons, my personal recommendation is treating the trip as though you were doing 5 separate hikes. Each "section" (Washington, Oregon, NorCal, Sierra, SoCal) brings different weather conditions, bug intensity and temperature variations.
+If you have the luxury of owning multiple pieces of gear that are suited to different seasons, my personal recommendation is treating the trip as though you were doing 5 separate hikes. Each portion (Washington, Oregon, NorCal, Sierra, SoCal) brings different weather conditions, bug intensity and temperature variations.
 
 Here is a breakdown of each section and some ideas of what gear might be swapped in or out:
 
@@ -204,25 +204,24 @@ Here is a breakdown of each section and some ideas of what gear might be swapped
 | Sierra | Snow, very cold, no bugs | Shelter without bug protection. Be ready for snow. Heavy bag and pad. Warm sleep layers! |
 | SoCal | Dry, somewhat cold, no bugs | Minimal shelter. Some warm layers |
 
-This strategy requires thought, planning, additional expense (in terms of equipment costs and mailing fees), a small amount of additional risk of things not being there when you need, and a higher tolerance for weather variations.
+This strategy requires thought, planning, additional expense (equipment costs and mailing fees), a small amount of additional risk of things not being there when you need, and a higher tolerance for weather variations.
 
-However the upside is a much lower pack weight! If you're planning on going ultralight, this strategy should be seriously considered. I think a common theme amongst hikers I met on the trail was thinking about what they were carrying and what they didn't need. It's a very gratifying feeling to know you are carrying only what you need, knowing what you can do without. It becomes a mindset, one that I've found useful back in regular life.
+The upside is a much lower pack weight! If you're planning on going ultralight, this strategy should be seriously considered. I think a common theme amongst hikers I met on the trail was thinking about what they were carrying and what they didn't need. It's a very gratifying feeling to know you are carrying only what you need, knowing what you can do without. It becomes a mindset, one that I've found useful back in regular life.
 
 None of this strictly requires pre-planning. You can decide to swap out or mail gear onwards while you are actually out there. This might be beneficial - you'll get an idea of exactly what you need in your current section through experience, not guesswork. 
 
-I would certainly recommend keeping a box of gear with the person who does your mailing. This will be your alternative equipment you might need on the trail. 
+I would certainly recommend keeping a box of gear with the person who mails your boxes. This will be your alternative equipment you might need on the trail. 
 
 # Preparation
 
 ## Fitness
+The advice over at [PCT Southbound](http://pctsouthbound.com) is that fitness preparation should be your number one concern leading up to your hike. I mostly agree with this. The better shape you are in when starting at Harts Pass, the better experience you will have in the first month of your hike.
 
-The advice over at PCTSouthbound.com is that fitness preparation should be your number one concern leading up to your hike. I agree with this. The better shape you are in when starting at Harts Pass, the better experience you will have in the first few weeks of your hike.
-
-However, I want to qualify this a little. I found myself getting anxious about not having done enough training as my start date approached. Making time to train wasn't easy when I had to move out of my apartment, put all my things in storage, hand over work at my job, and prepare my WA resupply! I felt I was behind in preparation and I felt guilty about that.
+However, training for long distance hiking isn't particularly easy. There's no substitute for actual hiking, which takes a lot of time. I found myself getting anxious about not having done enough training as my start date approached. Making time to train wasn't easy when I had to move out of my apartment, put all my things in storage, hand over work at my job, and prepare my WA resupply! I always felt behind in my preparation.
 
 I was sacrificing my mental wellbeing by putting extra pressure on myself.
 
-Take an honest look at your physical condition. Are you someone who integrates fitness and activity into their life already? Do you run / hike / lift / climb in your regular life? If you do, then I feel like you can make up any fitness gap on the trail itself, even in the tough Washington environment. Any extra preparation you do is a bonus.
+Take an honest look at your physical condition. Do you live an active life? Do you run / hike / lift / climb / play team sports? If you do, then I feel like you can make up any fitness gap on the trail itself, even in the tough Washington environment. Any extra preparation you do is a bonus.
 
 If you live an inactive life or find cardiovascular exercise difficult, then I think fitness preparation is incredibly important and should be your number one priority pre-trail. You're going to be thrown into the deep end on a SOBO hike.
 
@@ -231,7 +230,7 @@ If you have any pre-existing injuries that you suspect may reoccur on the trail,
 
 The trail is going to beat your body into a pulp in the first month. It's going to break down before it has time to adapt. 
 
-Whatever you can do ahead of time: specific exercises, stretching, PT, conditioning or whatever it is that works for you, do it!
+Do whatever you can do ahead of time: specific exercises, stretching, PT, conditioning or whatever it is that works for you.
 
 ## Keeping Perspective
 My biggest day on trail was 40 miles. If you told me before hand that I would do a 40 mile day, I would have laughed at you. During preparation, I was stressed out at the idea of even doing 25's each day, a goal I knew I would need to hit in order to make it to the end.
@@ -239,11 +238,11 @@ My biggest day on trail was 40 miles. If you told me before hand that I would do
 Please don’t stress! Your body will adapt. You will achieve things you never imagined possible. Your benchmarks of what you consider a "big day" will change. You'll tap into a source of strength that perhaps you've never used before. This is one of the greatest rewards of the trail and it's waiting for you!
 
 ## Mental Preparation
-This is so largely underrated, and something I hadn't considered much until I read the wonderful book [Pacific Crest Trials](https://thetrek.co/pacific-crest-trials-book). I would thoroughly reccommend it to anyone. 
+Mental preparation is hugely underrated, and something I hadn't considered much until I read the wonderful book [Pacific Crest Trials](https://thetrek.co/pacific-crest-trials-book).
 
-I think everyone approaches the hike with a different level of confidence. At one end of the spectrum: you might begin your trip feeling like you're about to finally fulfil your destiny. That all your life decisions have led you to this wonderful moment and it’s happening _right now_! This is your moment, your success is ordained and undeniable.
+I think everyone approaches the hike with a different level of confidence. You might begin your trip feeling like you're about to finally fulfil your destiny. That all your life decisions have led you to this wonderful adventure and it’s happening _right now_! This is your moment, your success is ordained and undeniable.
 
-On the other hand, you might be racked with nervousness and anxiety. Full of doubt. Can I make it? What the f**k was I thinking, this is insane!? I can't do this. I haven't prepared enough. I'm foregoing comfort, friends, an easy life, certainty, routine, all to be out here.
+On the other hand, you might be racked with nervousness and anxiety. Full of doubt. Can I make it? What the f**k was I thinking, this is insane! I can't do this. I haven't prepared enough. I'm foregoing comfort, friends, an easy life, certainty, routine, all to be out here.
 
 Likely you are somewhere between these two poles. It is my strong opinion that the closer you are to the former, the better your experience is going to be and the more chance you have at success. 
 
@@ -262,9 +261,9 @@ SOBOs don’t have that luxury!
 SOBOs feel the pressure, and that can make us make poor decisions! I can’t stress this enough...
 
 ## Start slow!
-You may want to hit an _overall_ walking average of 25 miles a day, but please don’t start at that pace! The first 3 weeks is when so many people suffer stress injuries from their body not being used to repeated hard days. And the days are hard in Washington! 
+You may want to hit an _overall_ walking average of 25 miles a day, but please don’t start at that pace! The first 3 weeks is when so many people suffer stress injuries from their body not being used to repeated hard days. And the days are hard in Washington.
 
-Myself and others I knew got hit by Shin Splints. A friend got knocked off trail permanently due to Achilles issues that came on within the first 300 miles. Plantar Fasciitis is common.
+I got hit by Shin Splints. A friend got knocked off trail permanently due to Achilles issues that came on within the first 300 miles. Plantar Fasciitis is common.
 
 For me, I _felt_ fit enough to do 25’s each day right out of the gate, but my body was not ready for it.
 
@@ -273,7 +272,7 @@ This trip is long. You have a lot of time to make up the miles in Oregon and Nor
 Don’t get hurt while you’re still soft clay.
 
 ## Go easy on yourself
-The first few weeks are going to be incredibly visceral. A relentless tide of meeting people, learning new skills, and finding your limits. There’s a good chance you might start doubting yourself, feeling homesick, wondering what the f**k you’re doing out here.
+The first few weeks are going to be incredibly visceral. A relentless tide of new people to meet, skills to learn, and limits to find. There’s a good chance you might start doubting yourself, feeling homesick, wondering what the f**k you’re doing out here.
 
 Take it easy. Spend an extra day in town if you need it. Vocalise your thoughts: there’s a good chance others are feeling the same way. You’re not out there alone - there’s a community of people there to support you.
 
@@ -294,17 +293,15 @@ The Sierra is a section worth taking time to plan for ahead of time! Even if you
 
 The Sierra is unique in that the trail does not cross many town-accessible roads, particularly between Red’s Meadow and South Kennedy Meadows. This means that any resupply must be done on-trail at one of the resorts (VVR or MTR), or by "exiting" using a trail that intersects the PCT.
 
-The two commonly-used exit points are Kearsarge Pass (7.5 miles) and Bishop Pass (12 miles). Both are *hard work* - you can treat both of as normal "pass" attempts in the Sierras, such as Muir or Forrester Pass. They involve a steep climb up to a high peak (> 11,000 ft), then drop down to the trailhead.
+The two commonly-used exit points are Kearsarge Pass (7.5 miles) and Bishop Pass (12 miles). Both are *hard work* - you can treat both of as normal "pass" attempts in the Sierras, such as Muir or Forester Pass. They involve a steep climb up to a high peak (> 11,000 ft), then long descent to a trailhead.
 
 These passes will drop you off at a trailhead parking lot. I didn’t hear of anyone having any issues getting a hitch, but be prepared to wait multiple hours or even overnight if you get there at a bad time.
 
-Hitches to Bishop from Kearsarge trailhead might involve a transfer in Independence, and a 40 minute ride.
+Hitches to Bishop from Kearsarge trailhead might involve a transfer in Independence and a 40 minute ride.
 
-And you have to get back and do it all again.
+And you have to get back and do it all again. All this makes the Bishop exit easily a 2-day affair.
 
-All this makes the Bishop exit easily a 2-day affair.
-
-### The Resorts - handy, but expensive
+### The Resorts - convenient, but expensive
 There are two mountain resorts located pretty much on-trail: [Vermillion Valley Resort (VVR)](http://www.edisonlake.com/hikers/resupply) and [Muir Trail Ranch (MTR)](http://www.muirtrailranch.com/resupply.html). Both are essentially mail-resupply only. They are very convenient! But you must prep these resupplies ahead of time if you want to use them.
 
 Furthermore, they are expensive! For VVR, at the time of writing (2020 season) according to the website:
@@ -319,7 +316,7 @@ MTR is even more expensive:
 
 > The service fee is US$85.00 for up to 25 pounds. (Buckets weighing over 25 pounds will be charged US$2.00 per pound overage fee.)
 
-.. and must be mailed in a waterproof plastic bucket, found at a hardware store. 
+.. and must be mailed in a waterproof plastic bucket found at a hardware store. 
 
 ### Carry Capacity
 Many people who use one of the resorts above will do so to avoid exiting the trail using one of the passes. 
@@ -330,21 +327,21 @@ This will put you in for a long food carry!
 |Vermillion Valley Resort -> South Kennedy Meadows: 176 miles|
 |Red’s Meadow Resort -> South Kennedy Meadows: 204 miles|
 
-Certainly not impossible (my anecdotal observation is that about 30% of people went for this option).
+Certainly not impossible (I would guess that ~20% of people went for this option).
 
 This section of trail is both very difficult on the body, and extremely beautiful, so you may not be doing 30 mile days.
 
 ### Staying on vs Getting off
 A single, clean push through the high Sierra without exiting is a wonderful experience. It saves you a lot of time and keeps you in the mountains. If you have your resupply sorted there are fewer things to worry about when you’re out there hiking.
 
-For me personally, leaving the trail and taking a zero day in Bishop was exactly what my mind and body needed. This section is long, tiring, breathtaking, and the weather can be highly variable. I got out, enjoyed a hot shower and bed, bought an extra layer of clothing, and relaxed. It’s a personal choice - do what is right for you. 
+For me personally, leaving the trail and taking a zero day in Bishop was exactly what my mind and body needed. This section is long, tiring, breathtaking, and the weather can be highly variable. I got out, enjoyed a hot shower and bed, purchased an extra layer of clothing, and relaxed. It’s a personal choice - do what is right for you. 
 
 Even if you planned to do a single push, always know you can bail if you need a break or the weather turns ugly.
 
 ### Saving some time at North Kennedy Meadows
 The default option seems to be to hitch into North Kennedy meadows, resupply, pick up a bear box, and enjoy their wood-burning stove!
 
-The hitch can be a bit gnarly. A few hikers this year paid for Sonora Pass Resupply, a company that will deliver a full resupply (and bear box) right to the trailhead. Plan it ahead of time, and expect to pay an overhead.
+The hitch can be a bit gnarly. A few hikers this year paid for [Sonora Pass Resupply](https://www.sonorapassresupply.com), a company that will deliver a full resupply (and bear box) direct to the trailhead. Plan it ahead of time and expect to pay an overhead.
 
 ## Example Strategies
 ### The Default
@@ -360,7 +357,7 @@ Cost overhead: none<br/>
 
 Requires zero ahead-of-time planning, so very popular. Adds normally another 2-3 days onto your hike. No long carries. You get to experience the great towns of Mammoth Lakes and Bishop.
 
-/Variation: send a box to Red’s Meadow instead of hitching to Mammoth Lakes/
+_Variation: send a box to Red’s Meadow instead of hitching to Mammoth Lakes_
 
 ### The Single Push
 Pre-planning: a lot<br/>
@@ -373,7 +370,7 @@ Cost overhead: a lot<br/>
 | Red’s Meadow | On-trail | Box | 50 |
 | MTR | On-trail | Box | 155 |
 
-/Variation: send a box to Tuolumne Meadows instead of Red’s meadow. It spaces out the resupply stops better, however TM post office is closed for much of the weekend, and I know a bunch of people who got caught out by this!/
+_Variation: send a box to Tuolumne Meadows instead of Red’s meadow. It spaces out the resupply stops better, however TM post office is closed for much of the weekend, and I know a bunch of people who got caught out by this!_
 
 ### The Roll-the-Dice
 Pre-planning: not much<br/>
@@ -412,9 +409,9 @@ This is a good strategy if you think you might want to make the single push, but
 *Water:* Abundant<br/>
 *Difficulty:* Hard<br/>
 
-Washington is going to test you - physically and mentally - not least due to the weather and conditions. This state will throw at you the largest variety of conditions you will probably experience on trail. 
+Washington is going to test you physically and mentally, not least due to the weather and conditions. This state will throw at you the largest variety of conditions you will probably experience on trail. 
 
-Elevation gain and loss is greater here than any other section on trail. Blowdowns and bushes that haven’t been cut back yet will slow you down. 
+Elevation gain and loss is greater here than any other part trail. Blowdowns and bushes that haven’t been cut back yet will slow you down. 
 
 Washington is remote and it really feels that way. Long carries between towns are the norm (although, the addition of the Trout Lake shuttle service does provide relief). Cell service is pretty non-existent in the Wildernesses. 
 
@@ -432,7 +429,7 @@ I found it hard to get good information about particular passes and sections - d
 * Check Guthook comments for Rock Pass (mile 13.6) Fire Creek Pass (mile 133.1)
 
 ### Rain
-Don’t be surprised if you are rained on at least once each day from Harts Pass through to White Pass (the first 3 weeks). You might slog it 4,000 ft uphill, only to curse the persistent clouds and fog that can obscure any amazing views that would have made the payoff worthwhile. Stopping to dry out tents, clothing and sleeping bags will be an almost daily occurrence.
+Don’t be surprised if it rains every day from Harts Pass through to White Pass (the first 3 weeks). You might slog it 4,000 ft uphill, only to curse the persistent clouds and fog that can obscure any amazing views that would have made the payoff worthwhile. Stopping to dry out tents, clothing and sleeping bags will be an almost daily occurrence.
 
 ### Bugs
 Horrendous! Especially after the first week. Some of my lowest days on trail were due to bugs. You can barely take a 5 minute rest before you are consumed by a cloud of flying monsters. Get used to setting up your tent in record time, quickly leaping through the door, and spending the next 5 minutes squishing all the mosquitos that got inside.
@@ -441,7 +438,7 @@ Horrendous! Especially after the first week. Some of my lowest days on trail wer
 * Bring long wind or rain pants, or even bug-net pants
 * Bring gloves
 * Bring DEET
-* Don’t let it get you down - they are mostly gone by Oregon
+* Don’t let it get you down - they ease up in Oregon, and disappear in NorCal
 
 ## Oregon
 
