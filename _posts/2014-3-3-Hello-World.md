@@ -467,7 +467,7 @@ This might be the time to start considering switching out your cold-weather gear
 
 Additionally, maybe switching out:
 
-* A heavy sleeping bag for something in the 30 - 40 degree range
+* A heavy sleeping bag for something in the 30 - 40 degree F range
 * A heavy pad for a short pad
 
 You can potentially strip 2 - 4 lbs from your base weight if you’re ruthless about it.
@@ -486,7 +486,7 @@ You can potentially strip 2 - 4 lbs from your base weight if you’re ruthless a
 *Water:* Less good. More water carries, especially in the first 300 miles.<br/>
 *Difficulty:* Hard<br/>
 
-Northern California ratchets up the difficulty once again. Elevation change is fairly high, but the first thing to expect when crossing the state line into California is scorching heat and exposed sections of trail with little shade. Aside from the ever-present view of Mount Shasta (the mountain not the town), the scenery isn’t anything special. The decent into Seiad Valley, long road walk, and brutal climb is particularly testing. 
+Northern California ratchets up the difficulty once again. Elevation change is fairly high, but the first thing to expect when crossing the state line into California is scorching heat and exposed sections of trail with little shade. Aside from the ever-present view of Mount Shasta (the mountain not the town), the scenery isn’t quite as good as you've had it so far. The decent into Seiad Valley, long road walk, and brutal climb is particularly testing. 
 
 After Belden however, the surroundings take on a decidedly more "Sierra" vibe. The weather cools and you’re treated to some great vistas as you approach Sierra City and Lake Tahoe.
 
@@ -514,15 +514,15 @@ This is what you’ve been waiting for! The Sierras are like nothing else, so ta
 ### Cold
 You’re gonna be grateful to have all your cold weather gear back, and might even want to consider packing out some extra just for this section. Temperatures at night can drop below 15F. If you don’t feel comfortable that your sleeping bag and pad are up to the challenge, you can make up for it with more clothes. Most people I hiked with said they slept in every single layer for at least one of the nights. 
 
-Campsite selection is important. Choosing a site near the top of a pass might seem tempting but you’re likely in for a windy night. Similarly, cold air will settle at the very bottom of a valley or by a flowing stream. My coldest night was at Matterhorn Creek (mile 1691) because of poor campsite selection - I didn’t sleep a wink :(
+Campsite selection is important. Choosing a site near the top of a pass might seem tempting but you’re likely in for a windy night. Similarly, cold air will settle at the very bottom of a valley or by a flowing stream. My coldest night was at Matterhorn Creek (mile 1,691) because of poor campsite selection - I didn’t sleep a wink :(
 
 ### Blizzards
-Snow in the Sierras can be dangerous, especially because of the lack of options to bail to a nearby town. Keeping up to date weather forecasts can be really helpful (accepting that mountain forecasting can be a real crapshoot). Muir Trail Ranch, Tuolumne Meadows and I believe Vermillion Valley Resort will keep forecasts updated for hikers. Many emergency satellite devices have a weather forecast function. Plan where you can bail if things turn sour, and don’t be afraid to take an earlier pass if you need it.
+Snow in the Sierras can be dangerous, especially because of the lack of options to bail to a nearby town. Keeping up-to-date weather forecasts can be really helpful (accepting that mountain forecasting can be a real crapshoot). Muir Trail Ranch, Tuolumne Meadows and I believe Vermillion Valley Resort will keep forecasts updated for hikers. Many emergency satellite devices have a weather forecast function. Plan where you can bail if things turn sour, and don’t be afraid to take an earlier pass if you need it.
 
 ### Altitude Effects
-Being up between 10,000 and 13,000 ft has a significant effect on the body. Even if you don’t get sick, you’re likely to be slow and tired every day until you get used to it. If you’re feeling exhausted and don’t know why, don’t get disheartened! Your strength will come back to you over time.
+Being up between 10,000 and 13,000 ft has a significant effect on the body. Even if you don’t get sick, you’re likely to be slow and tired every day until you are fully acclimated. If you’re feeling exhausted and don’t know why, don’t be disheartened! Your strength should come back to you over time.
 
-Don’t forget that you can lose all your gains if you spend extended time in low altitude trail towns! A good example: Bishop sits at 4,148 ft altitude. Within the next day or two you’ll be hitting 13,124 ft at Forrester Pass. 
+Don’t forget that you can lose all your gains if you spend extended time in low altitude trail towns! A good example: Bishop sits at 4,148 ft altitude. Within the next day or two you’ll be hitting 13,124 ft at Forester Pass. 
 
 ## Southern California
 
@@ -546,10 +546,10 @@ The desert can be grueling for many people. It was for me. My mind and body were
 
 On the flip side, you’ll be treated to some wonderful trail towns. Idyllwild, Julian, Big Bear Lake, Wrightwood and Tehachapi were some of my favourites. Food carries are pretty light. Grocery stores are common and well stocked. Sunrise and sunset felt particularly magical in the desert.
 
-And you’ll be almost done!
+And you're almost done!
 
 ### Cowboy Camping
-If you haven’t done so up until now, this is prime cowboy camping territory. I didn’t sleep a single night under a shelter after reaching South Kennedy Meadows. 
+If you haven’t been cowboy camping yet, this is prime territory. I didn’t sleep a single night under a shelter after reaching South Kennedy Meadows. 
 
 The chance of rain is going to be almost zero, but I wasn’t brave enough to send home my shelter.
 
