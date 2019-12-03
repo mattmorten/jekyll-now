@@ -326,6 +326,21 @@ As I approached the end of NorCal, I found myself unprepared for how to get thro
 
 The Sierra is a section worth taking time to plan for ahead of time! Even if you don’t want to commit on one strategy right away, know your options.
 
+### Overview
+
+Here are the prominent resupply points through the Sierra:
+
+| Mile | On-Trail | Off-Trail | Comment |
+|---|---|---|---|
+| 1636 | - | N. Kennedy Meadows | Good store + Mail. Tricky hitch |
+| 1710 | Tuolumne Meadows | - | Poor store selection |
+| 1746 | Red's Meadow | Mammoth Lakes | Easy hitch out to Mammoth. Poor store selection at Red's|
+| 1774 | - | Vermillion Valley Resort | A quick boat ride or side trail. See "The Resorts" section |
+| 1795 | Muir Trail Ranch | - | Pretty much on trail. See "The Resorts" section |
+| 1846 | - | Independence or Bishop via Kearsarge Pass | See "Exit Points" section |
+| 1907 | - | Lone Pine via Trail Pass | |
+| 1950 | S. Kennedy Meadows | - | 1 mile road walk |
+
 ### Exit Points
 
 ![The Passes](https://raw.githubusercontent.com/mattmorten/jekyll-now/master/images/Passes.jpg)
