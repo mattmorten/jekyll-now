@@ -79,9 +79,10 @@ I’ve tried to keep it mostly about things that are unique to going SOBO (excep
 * [Yogi’s Guide](http://yogisbooks.com)
 * [PCT Subreddit](http://reddit.com/r/pacificcresttrail)
 
-Also, please do check out another *really excellent* SOBO resource:
+Also, please do check out these other *really excellent* SOBO resources:
 
 * [PCT Southbound](http://pctsouthbound.com)
+* [Zach's SOBO Guide](https://www.zachhoopes.com/pct-southbound-guide)
 
 ## What this guide isn’t!
 This guide is not the final word on all things SOBO! Everyone has different experiences, each year is different, and the thru-hiking experience is extremely subjective.
@@ -278,7 +279,46 @@ Take it easy. Spend an extra day in town if you need it. Vocalise your thoughts:
 
 The transition from regular life to trail life can be jarring at first. If you're feeling out of your depth, give yourself at least 3 weeks before making the decision to leave the trail. You're brain might be screaming at you to trade in those trail runners for your old, comfortable life. Stick it out as long as you can! There's no shame in quitting, but make sure you've given it a real chance first.
 
-# Sierra Resupply Guide
+# Transport to Harts Pass
+
+Most SOBO thru-hikes begin at Harts Pass trailhead. It is also possible to start at Holman Pass, but far fewer people choose that option.
+
+The two clear options to get to Harts Pass are as follows:
+
+1. From Wenatchee, take public transport to..
+    1. Winthrop, then hitch to the trailhead
+    2. Twisp, then hire the Classic Mountain Cabbie (private taxi) to drive to the trailhead
+2. From Seattle, have someone drive you (or hitch) to Harts Pass
+
+I would recommend checking out the PCTA page for [Getting to the Northern Terminus](https://www.pcta.org/discover-the-trail/backcountry-basics/pct-transportation/directions-northern-terminus-pct/).
+
+I would personally recommend getting to Wenatchee and taking public transport to Winthrop. It is easy and convenient, and you're likely to meet a bunch of SOBOs on the bus! The hitch to Harts Pass is pretty easy if the snow has completely melted at the trailhead.
+
+Your steps are:
+
+1. Wenatchee to Pateros. You can buy a ticket at the counter or online. If you purchase online make sure you PRINT your ticket (not mobile phone)!
+2. Pateros to Twisp (purchase on the bus)
+3. Twisp to Winthrop (purchase on the bus)
+
+To get to Wenatchee from Seattle, either:
+
+1. Fly (Alaska Airways). For me, the cost wasn't that much more to go to Wenatchee than to Seattle.
+2. Take the bus ([Wenatchee Valley Shuttle](https://www.wenatcheevalleyshuttle.com/schedules))
+
+If you're like me, you might find the idea of trying to hitch to Harts Pass a bit daunting. I had no hitching experience at that point. Overwhelmingly the feedback I got was that getting a hitch was easy and fast. 
+   
+
+# Resupply
+
+## Resupply Spreadsheets
+
+I'm not going to duplicate what is already out there. There are some *wonderful* resupply guides for SOBO in spreadsheet form. Make a copy of them into your account. Choose one that works well for you.
+
+* [Zach Hoopes' Resupply Plan](https://docs.google.com/spreadsheets/d/104NkofhUgfQ9zKuNBdgLY-IztvbePNQ0ZC01CGSH-0s/edit?usp=sharing)
+* [Trenchfoot's Resupply Plan](https://docs.google.com/spreadsheets/d/1a3aJLyBBbgeLv7bxzH4Sjawe34j4SrngtOQo0xQers0/edit?usp=sharing)
+
+
+## The Sierra Resupply Guide
 
 ![Sick Mountains!](https://raw.githubusercontent.com/mattmorten/jekyll-now/master/images/SierraResupply.jpg)
 
@@ -286,7 +326,6 @@ As I approached the end of NorCal, I found myself unprepared for how to get thro
 
 The Sierra is a section worth taking time to plan for ahead of time! Even if you don’t want to commit on one strategy right away, know your options.
 
-## Things to think about
 ### Exit Points
 
 ![The Passes](https://raw.githubusercontent.com/mattmorten/jekyll-now/master/images/Passes.jpg)
@@ -343,8 +382,8 @@ The default option seems to be to hitch into North Kennedy meadows, resupply, pi
 
 The hitch can be a bit gnarly. A few hikers this year paid for [Sonora Pass Resupply](https://www.sonorapassresupply.com), a company that will deliver a full resupply (and bear box) direct to the trailhead. Plan it ahead of time and expect to pay an overhead.
 
-## Example Strategies
-### The Default
+### Example Strategies
+#### The Default
 Pre-planning: none<br/>
 Time: consuming<br/>
 Cost overhead: none<br/>
@@ -359,7 +398,7 @@ Requires zero ahead-of-time planning, so very popular. Adds normally another 2-3
 
 _Variation: send a box to Red’s Meadow instead of hitching to Mammoth Lakes_
 
-### The Single Push
+#### The Single Push
 Pre-planning: a lot<br/>
 Time: speedy<br/>
 Cost overhead: a lot<br/>
@@ -372,7 +411,7 @@ Cost overhead: a lot<br/>
 
 _Variation: send a box to Tuolumne Meadows instead of Red’s meadow. It spaces out the resupply stops better, however TM post office is closed for much of the weekend, and I know a bunch of people who got caught out by this!_
 
-### The Roll-the-Dice
+#### The Roll-the-Dice
 Pre-planning: not much<br/>
 Time: Depends on if you pull it off<br/>
 Cost overhead: none<br/>
@@ -394,6 +433,11 @@ This is a good strategy if you think you might want to make the single push, but
 # What to Expect
 
 ![Sections Overview Diag](https://raw.githubusercontent.com/mattmorten/jekyll-now/master/images/Diag.jpg)
+
+Keep these two pages bookmarked on your phone:
+
+* [PCTA Weather](https://www.pcta.org/discover-the-trail/backcountry-basics/weather-forecasts/) - direct links to NOAA weather forecasts at ~50 mile increments
+* [Inciweb Wildfire Updates](https://inciweb.nwcg.gov) - up-to-date reports of all active wildfires in the US
 
 ## Washington
 
@@ -581,18 +625,18 @@ In some towns you’ll have an option to ship to the Post Office, or ship to a p
 
 In almost all cases, I prefer to ship to a private business, purely to avoid arriving at the PO on a day where it is closed.
 
-POs are usually closed Sunday, and at least part of or if not all of Saturday. Some of them close early on weekdays too.
+POs are usually closed Sunday, and at least part of Saturday. Some of them close early on weekdays too.
 
-Taking a forced zero day, or doing a big sprint to the PO just to make it there on a weekday, is not fun! It happens frequently, and happened to all of us.
+Taking a forced zero day, or doing a big sprint to the PO just to make it there on a weekday is not fun! It happened many times to many of us on the trail.
 
-If you have shipped to a PO, start planning as far ahead as you can when you are going to arrive. If you know a week in advance that you’re gonna hit on a weekend, you can start putting in extra miles gradually each day.
+If you have shipped to a PO start planning as far ahead as you can when you are going to arrive. If you know a week in advance that you’re gonna arrive on a weekend, you can start putting in extra miles gradually each day.
 
 ### Online Shopping - Delivery to the Trail
-It is hard to rely on good gear shops along the trail, except for large towns and the wonderful Triple Crown Outfitters in South Kennedy Meadows.
+It is hard to rely on good gear shops along the trail, except for large towns and the wonderful [Triple Crown Outfitters](https://triplecrownoutfitters.com) in South Kennedy Meadows.
 
-If you don’t mind giving your money to billionaires, Amazon is very convenient. They ship USPS which means being able to send directly to the PO (with General Delivery).
+If you don’t mind giving your money to billionaires, Amazon is very convenient. They ship USPS which means being able to send directly to the Post Office (with General Delivery).
 
-The Amazon site often complains about General Delivery addresses, but they always work totally fine. The best solution I found is:
+The Amazon website often complains about General Delivery addresses, but they always worked fine for me. The best solution I found is:
 
 
 1. Your Account
@@ -610,10 +654,10 @@ For other retailers - you’ll have to find out if they ship USPS or UPS. POs ge
 ### Misc. Resupply Tips
 
 * Go to Trout Lake! It’s a cute town, great milkshakes, and splits up the 150 miles between White Pass and Cascade Locks.
-* Portland is great, but you’ll spend much of your day trying to get around the city. Consider Hood River instead. It’s a fun town and easy enough to navigate.
+* Portland is great, but you’ll spend much of your day trying to get around the city. Consider Hood River instead. It’s a fun town and easy enough to navigate. You can get there by bus from Cascade Locks.
 * For shipping out boxes, private all-in-one stores like Postal Annex are super convenient: you can ship USPS, UPS and FEDEX from one place.
 * Download all the apps (USPS, UPS, FEDEX) and always enter tracking numbers when you get them.
-* Never put Tide Pods in your resupply boxes! They will make everything in your box taste of Tide.
+* Never put Tide Pods in your resupply boxes! They will make everything in your box taste of laundry detergent.
 * For your boxes in WA, less is more! You won’t have hiker hunger yet. You can usually supplement with more food if you need it from stores. Hiker Boxes are notoriously full in WA.
 * Make your WA boxes before you go. The rest can be made up while you’re on trail, from bigger towns (Hood River, Ashland, Mt Shasta, Tehachapi). Your OR and CA boxes will be far nicer and more attuned to your needs.
 
