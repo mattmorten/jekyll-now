@@ -104,7 +104,7 @@ I tagged the Northern Terminus on June 29 and reached the Southern Terminus in C
 * Few if any fire closures
 
 
-Thru-hiking has enriched my life in so many ways. It has been the journey of a lifetime. To those who I walked with, it was a pleasure.
+Thru-hiking has enriched my life in so many ways. It has been the journey of a lifetime. To those whom I walked with: it was an honour.
 
 # Why SOBO?
 
@@ -134,7 +134,7 @@ Urgency is a huge component of a SOBO thru-hike. You _must_ be through the Sierr
 
 A standard SOBO attempt might begin around July 1. The received wisdom tells us that the Sierra snows will arrive somewhere near October 15th. None of this is set in stone! But using this as a rough guide, a hiker will have approximately 100 days to go 1,800 miles to Forester Pass, after which they descend out of the Sierras into the desert.
 
-This goal is paramount and in the forefront of a SOBO hiker's mind. I rarely met people who didn't have at least some background anxiety about making it in time.  
+This goal is paramount and in the forefront of a SOBO hiker's mind. I rarely met anyone who didn't have at least some background anxiety about making it in time.  
 
 The flavour of a SOBO hike is therefore characterised by:
 
@@ -143,7 +143,7 @@ The flavour of a SOBO hike is therefore characterised by:
 * Pressure to hit your stride early (be very wary of this!)
 * Brief town stops
 
-I believe this produces a trail culture that is quite different to the NOBO experience. There is very little "party" culture. Sometimes you will find yourself rushing through experiences that you wished you had longer to take in and enjoy. Self discipline is important. It can be easy to feel guilty when you're not walking (a feeling that stayed with me even after I finished the trail)!
+I believe this produces a trail culture that is quite different to the NOBO experience. There is very little "party culture". Sometimes you will find yourself rushing through experiences that you wished you had longer to take in and enjoy. Self discipline is important. You might feel guilty when you're not walking (a feeling that stayed with me even after I finished the trail)!
 
 There are also real positives that come from being part of the SOBO community. Most people are there because of a specific reason to go South, not just by default. Anecdotally I would say the level of experience and preparedness is higher. I had a really great time meeting people that had a focus and drive that matched my own.
 
@@ -218,7 +218,7 @@ I would certainly recommend keeping a box of gear with the person who mails your
 ## Fitness
 The advice over at [PCT Southbound](http://pctsouthbound.com) is that fitness preparation should be your number one concern leading up to your hike. I mostly agree with this. The better shape you are in when starting at Harts Pass, the better experience you will have in the first month of your hike.
 
-However, training for long distance hiking isn't particularly easy. There's no substitute for actual hiking, which takes a lot of time. I found myself getting anxious about not having done enough training as my start date approached. Making time to train wasn't easy when I had to move out of my apartment, put all my things in storage, hand over work at my job, and prepare my WA resupply! I always felt behind in my preparation.
+However, training for long distance hiking isn't particularly easy. There's no substitute for actual hiking, which takes a lot of time. I found myself getting anxious about not having done enough training as my start date approached. Making time to train wasn't easy when I had to move out of my apartment, put all my things in storage, hand over work at my job, and prepare my Washington resupply! I always felt behind in my preparation.
 
 I was sacrificing my mental wellbeing by putting extra pressure on myself.
 
@@ -264,20 +264,20 @@ SOBOs feel the pressure, and that can make us make poor decisions! I can’t str
 ## Start slow!
 You may want to hit an _overall_ walking average of 25 miles a day, but please don’t start at that pace! The first 3 weeks is when so many people suffer stress injuries from their body not being used to repeated hard days. And the days are hard in Washington.
 
-I got hit by Shin Splints. A friend got knocked off trail permanently due to Achilles issues that came on within the first 300 miles. Plantar Fasciitis is common.
+I got Shin Splints. So did many of my fellow hikers. A good friend was knocked off trail permanently due to Achilles issues that came on within the first 300 miles. Plantar Fasciitis is common.
 
-For me, I _felt_ fit enough to do 25’s each day right out of the gate, but my body was not ready for it.
+For me, I _felt_ fit enough to do 25s each day right out of the gate, but my body was not ready for it.
 
 This trip is long. You have a lot of time to make up the miles in Oregon and NorCal. Hitting 30s and even 40s in those states were not uncommon for me - my body had hardened into an unbeatable walking machine.
 
 Don’t get hurt while you’re still soft clay.
 
 ## Go easy on yourself
-The first few weeks are going to be incredibly visceral. A relentless tide of new people to meet, skills to learn, and limits to find. There’s a good chance you might start doubting yourself, feeling homesick, wondering what the f**k you’re doing out here.
+The first few weeks are going to be incredibly visceral. A relentless tide of new people to meet, skills to learn, and limits to find. You might start doubting yourself, feeling homesick, wondering what the f**k you’re doing out here.
 
-Take it easy. Spend an extra day in town if you need it. Vocalise your thoughts: there’s a good chance others are feeling the same way. You’re not out there alone - there’s a community of people there to support you.
+Take it easy. Spend an extra day in town if you need it. Vocalise your thoughts; there’s a good chance others are feeling the same way. You’re not out there alone - there’s a community of people there to support you.
 
-The transition from regular life to trail life can be jarring at first. If you're feeling out of your depth, give yourself at least 3 weeks before making the decision to leave the trail. You're brain might be screaming at you to trade in those trail runners for your old, comfortable life. Stick it out as long as you can! There's no shame in quitting, but make sure you've given it a real chance first.
+The transition from regular life to trail life can be jarring at first. If you're feeling out of your depth, give yourself at least 3 weeks before making the decision to leave the trail. Your brain might be screaming at you to trade in those trail runners for your old, comfortable life. Stick it out as long as you can! There's no shame in quitting, but make sure you've given it a real chance first.
 
 # Transport to Harts Pass
 
@@ -472,7 +472,7 @@ Washington is going to test you physically and mentally, not least due to the we
 
 Elevation gain and loss is greater here than any other part trail. Blowdowns and bushes that haven’t been cut back yet will slow you down. 
 
-Washington is remote and it really feels that way. Long carries between towns are the norm (although, the addition of the Trout Lake shuttle service does provide relief). Cell service is pretty non-existent in the Wildernesses. 
+Washington is remote and it really feels that way. Long carries between towns are the norm (although, the addition of the Trout Lake shuttle service does provide relief). Cellphone service is almost non-existent in the Wildernesses. 
 
 However, Washington blew me away with its beauty, ruggedness, magical pine forests, and alpine lakes. Over and again the North Cascades and Glacier peak top people’s lists of favourite section of the trail. Goat Rocks will take your breath away. The wildflowers of Mount Adams Wilderness particularly stick in my mind.
 
@@ -497,7 +497,7 @@ Horrendous! Especially after the first week. Some of my lowest days on trail wer
 * Bring long wind or rain pants, or even bug-net pants
 * Bring gloves
 * Bring DEET
-* Don’t let it get you down - they ease up in Oregon, and disappear in NorCal
+* Don’t let them get you down - they ease up in Oregon, and disappear in NorCal
 
 ## Oregon
 
@@ -513,9 +513,9 @@ Horrendous! Especially after the first week. Some of my lowest days on trail wer
 *Water:* Mostly good, but a couple of 20-mile carries come to mind around Big Lake<br/>
 *Difficulty:* Easy<br/>
 
-Oregon will come as a welcomed respite after a difficult and draining Washington section. In some ways, it is nearly the polar opposite to WA: very flat, towns / resorts every couple of days, and mild weather. Northern OR is incredibly scenic, particularly around Mount Jefferson and the Three Sisters Wilderness. You may be able to push some big-mile days here too, making up for a more cautious start through WA.
+Oregon is a welcomed respite after a difficult and draining Washington section. In some ways, it is nearly the polar opposite to Washington: very flat, towns / resorts every couple of days, and mild weather. Northern Oregon is incredibly scenic, particularly around Mount Jefferson and the Three Sisters Wilderness. You may be able to push some big-mile days here too, making up for a more cautious start through WA.
 
-### Switching Gear
+### Swapping Gear
 This might be the time to start considering switching out your cold-weather gear for lighter warm-weather options. Or at the very least mailing some unnecessary layers forward to Sierra City. The weather for the next 800 miles is going to be much warmer. Think about mailing out:
 
 * Fleece or puffy (you only need one)
@@ -545,7 +545,7 @@ You can potentially strip 2 - 4 lbs from your base weight if you’re ruthless a
 *Water:* Less good. More water carries, especially in the first 300 miles.<br/>
 *Difficulty:* Hard<br/>
 
-Northern California ratchets up the difficulty once again. Elevation change is fairly high, but the first thing to expect when crossing the state line into California is scorching heat and exposed sections of trail with little shade. Aside from the ever-present view of Mount Shasta (the mountain not the town), the scenery isn’t quite as good as you've had it so far. The decent into Seiad Valley, long road walk, and brutal climb is particularly testing. 
+Northern California ratchets up the difficulty once again. Elevation change is fairly high, but the first thing to expect when crossing the state line into California is scorching heat and exposed sections of trail with little shade. Aside from the ever-present view of Mount Shasta (the mountain not the town), the scenery isn’t quite as good as you've had it so far. The descent into Seiad Valley, long road walk, and brutal climb is particularly testing. 
 
 After Belden however, the surroundings take on a decidedly more "Sierra" vibe. The weather cools and you’re treated to some great vistas as you approach Sierra City and Lake Tahoe.
 
@@ -571,7 +571,7 @@ Guthook tells us the Sierra starts at South Lake Tahoe. I would strongly conside
 This is what you’ve been waiting for! The Sierras are like nothing else, so take it all in and enjoy. You’re gonna be working hard every day - big climbs over the various tall passes (Muir, Mather, Pinchot, Glen, and Forester) will really take it out of you, and put to the test all that preparation you’ve done over the last 2 months.
 
 ### Cold
-You’re gonna be grateful to have all your cold weather gear back, and might even want to consider packing out some extra just for this section. Temperatures at night can drop below 15F. If you don’t feel comfortable that your sleeping bag and pad are up to the challenge, you can make up for it with more clothes. Most people I hiked with said they slept in every single layer for at least one of the nights. 
+You’re gonna be grateful to have all your cold weather gear back, and might even want to consider packing out some extra just for this section. Temperatures at night can drop below 15F. If you don’t feel comfortable that your sleeping bag and pad are up to the challenge, you can make up for it with more clothes. Everyone I hiked with said they slept in every single layer for at least one of the nights. 
 
 Campsite selection is important. Choosing a site near the top of a pass might seem tempting but you’re likely in for a windy night. Similarly, cold air will settle at the very bottom of a valley or by a flowing stream. My coldest night was at Matterhorn Creek (mile 1,691) because of poor campsite selection - I didn’t sleep a wink :(
 
