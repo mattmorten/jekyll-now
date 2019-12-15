@@ -347,7 +347,7 @@ Here are the prominent resupply points through the Sierra:
 
 The Sierra is unique in that the trail does not cross many town-accessible roads, particularly between Red’s Meadow and South Kennedy Meadows. This means that any resupply must be done on-trail at one of the resorts (VVR or MTR), or by "exiting" using a trail that intersects the PCT.
 
-The two commonly-used exit points are Kearsarge Pass (7.5 miles) and Bishop Pass (12 miles). Both are *hard work* - you can treat both of as normal "pass" attempts in the Sierras, such as Muir or Forester Pass. They involve a steep climb up to a high peak (> 11,000 ft), then long descent to a trailhead.
+The two commonly-used exit points are Kearsarge Pass (7.5 miles) and Bishop Pass (12 miles). Both are *hard work* - you can treat both of them as normal "pass" attempts in the Sierras, such as Muir or Forester Pass. They involve a steep climb up to a high peak (> 11,000 ft), then long descent to a trailhead.
 
 These passes will drop you off at a trailhead parking lot. I didn’t hear of anyone having any issues getting a hitch, but be prepared to wait multiple hours or even overnight if you get there at a bad time.
 
