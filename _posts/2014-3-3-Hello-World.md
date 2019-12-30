@@ -106,9 +106,14 @@ I tagged the Northern Terminus on June 29 and reached the Southern Terminus in C
 
 Thru-hiking has enriched my life in so many ways. It has been the journey of a lifetime. To those whom I walked with: it was an honour.
 
+## Changes
+
+|12/30/2019|Resort closures, Fearmongering|
+|12/9/2019|Version 1|
+
 # Why SOBO?
 
-I’m biased - I think the SOBO experience is incredible, and I want to shout it from the rooftops to anyone who will listen.
+I’m biased - I think the SOBO experience is incredible, and I want to shout it from the rooftops.
 
 ## NOBO Crowds
 In recent years the PCTA has released 50 permits per day throughout the the Northbound season. In 2018, 4,500 Northbound thru-hike permits were issued. That is in contrast to 491 Southbound permits for the same year.
@@ -177,6 +182,19 @@ You don’t have to get all the way to South Kennedy Meadows by the time the sno
 Work your way back from that date.  Give yourself *2.5 weeks to get from South Lake Tahoe to Forester Pass*.
 
 That means *finishing NorCal by around September 25th*
+
+# Fearmongering
+
+Keep the snow deadline firmly in the front of your mind. Keep on top of the weather reports as you approach the high passes. Seek advice from others on the trail, particularly those coming North. Watch the InciWeb website for wildfires.
+
+But be aware there is always a strong current of fearmongering in the trail community! Every hiker is managing their own fears and doubt about making it all the way to Campo. 
+
+I was personally told about difficult snow crossings that never materialised, and wildfires that never existed.
+
+* When someone gives you a report of adverse trail conditions, ask them: "did *you* personally see / experience this? Or are you reporting the information second hand from someone else?". 
+* Try and get different multiple independent sources for information. 
+* The best sources of information are Ranger Stations in the area. If you are concerned, call them and ask for a report of conditions on the ground.
+
 
 # Gear Philosophy
 
@@ -371,6 +389,19 @@ MTR is even more expensive:
 > The service fee is US$85.00 for up to 25 pounds. (Buckets weighing over 25 pounds will be charged US$2.00 per pound overage fee.)
 
 .. and must be mailed in a waterproof plastic bucket found at a hardware store. 
+
+### Resort Closures
+
+Both resorts will close their doors for resupply packages _at some point during the SOBO season_. Unfortunately, this is usually before every hiker has past through. Hikers who are moving slower than the main "bubble" risk not being able to pick up their resupply.
+
+If you choose to use the resorts, keep checking the resort websites - they will tell you the closing date.
+
+However, there's no guarantee that this date will be honoured! The resorts may close several days _before_ the date on the website.
+
+* Estimate your arrival date for the resort you're going to use. If you are within 4 days of when that resort is due to close, consider not using it.
+* Get as much info as you can as you approach. Call the resort directly, on the phone. Speak to hikers going NOBO.
+* If you are unsure as you approach, _bring enough food to reach Bishop_! Never risk running out of food in the Sierras! 
+
 
 ### Carry Capacity
 Many people who use one of the resorts above will do so to avoid exiting the trail using one of the passes. 
