@@ -205,7 +205,7 @@ Here was my 2019 pace:
 
 |Mile|Stop|Date|
 |---|---|---|
-| 0 | Harts Pass | 6/29 |
+| 0 | Northern Terminus | 6/29 |
 | 366 | White Pass | 7/22 |
 | 505 | Cascade Locks (End of WA) | 7/28 |
 | 755 | Shelter Cove | 8/10 |
