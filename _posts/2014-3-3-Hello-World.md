@@ -108,7 +108,7 @@ Thru-hiking has enriched my life in so many ways. It has been the journey of a l
 
 ## Changes
 
-|12/30/2019|Resort closures, Fearmongering|
+|12/30/2019|Resort closures, Fearmongering, Bubble Pace|
 |12/9/2019|Version 1|
 
 # Why SOBO?
@@ -195,6 +195,28 @@ I was personally told about difficult snow crossings that never materialised, an
 * Try and get different multiple independent sources for information. 
 * The best sources of information are Ranger Stations in the area. If you are concerned, call them and ask for a report of conditions on the ground.
 
+# Bubble Pace
+
+People on trail talk about the "Bubble": a large grouping of hikers, all within maybe 1 week of each other, who are setting the average pace. Those in front and behind the bubble, particularly going SOBO, might see fewer people and spend more time hiking and camping alone.
+
+In 2019 I hiked solidly inside the Bubble. I'd sometimes see 20+ people at major town stops. 
+
+Here was my 2019 pace:
+
+|Mile|Stop|Date|
+|---|---|---|
+| 0 | Harts Pass | 6/29 |
+| 366 | White Pass | 07/22 |
+| 505 | Cascade Locks (End of WA) | 7/28 |
+| 755 | Shelter Cove | 8/10 |
+| 935 | Ashland (End of OR) | 8/18 |
+| 1344 | Chester (Halfway) | 09/05 |
+| 1563 | S. Lake Tahoe (End of NorCal)| 09/13 |
+| 1744 | Reds Meadow | 09/23 |
+| 1892 | Witney | 10/01 |
+| 1959 | S. Kennedy Meadows (End of Sierra) | 10/04 |
+| 2387 | Big Bear Lake | 10/23 |
+| 2653 | Campo (End of PCT) | 11/04 |
 
 # Gear Philosophy
 
