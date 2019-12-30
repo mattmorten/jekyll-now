@@ -206,13 +206,13 @@ Here was my 2019 pace:
 |Mile|Stop|Date|
 |---|---|---|
 | 0 | Harts Pass | 6/29 |
-| 366 | White Pass | 07/22 |
+| 366 | White Pass | 7/22 |
 | 505 | Cascade Locks (End of WA) | 7/28 |
 | 755 | Shelter Cove | 8/10 |
 | 935 | Ashland (End of OR) | 8/18 |
-| 1344 | Chester (Halfway) | 09/05 |
-| 1563 | S. Lake Tahoe (End of NorCal)| 09/13 |
-| 1744 | Reds Meadow | 09/23 |
+| 1344 | Chester (Halfway) | 9/05 |
+| 1563 | S. Lake Tahoe (End of NorCal)| 9/13 |
+| 1744 | Reds Meadow | 9/23 |
 | 1892 | Witney | 10/01 |
 | 1959 | S. Kennedy Meadows (End of Sierra) | 10/04 |
 | 2387 | Big Bear Lake | 10/23 |
