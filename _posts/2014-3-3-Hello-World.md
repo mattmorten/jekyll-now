@@ -218,6 +218,21 @@ Here was my 2019 pace:
 | 2387 | Big Bear Lake | 10/23 |
 | 2653 | Campo (End of PCT) | 11/04 |
 
+# Tracking Miles
+
+I created a Google Spreadsheet for tracking miles. It calculates:
+
+* How many miles you've done each day
+* Average Miles / Day
+* Average Miles / Day (10 day rolling average)
+* Estimated finish date, based on Average Miles / Day
+* Estimated finish date, based on Average Miles / Day (10 day rolling average)
+
+[Here is the spreadsheet](https://docs.google.com/spreadsheets/d/1-DcwUaB4yDO2A_7HkqQsYuuswsMPtcq0U46-4pW6888)
+
+Make a copy of the sheet to your account and start filling it in _from the Northern Terminus_
+
+
 # Gear Philosophy
 
 ![Some of my starting equipment](https://raw.githubusercontent.com/mattmorten/jekyll-now/master/images/Gear.JPG)
