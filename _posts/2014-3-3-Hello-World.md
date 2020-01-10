@@ -108,6 +108,7 @@ Thru-hiking has enriched my life in so many ways. It has been the journey of a l
 
 ## Changes
 
+|1/10/2019|Remove Amazon section|
 |12/30/2019|Resort closures, Fearmongering, Bubble Pace|
 |12/9/2019|Version 1|
 
@@ -717,19 +718,21 @@ If you have shipped to a PO start planning as far ahead as you can when you are 
 ### Online Shopping - Delivery to the Trail
 It is hard to rely on good gear shops along the trail, except for large towns and the wonderful [Triple Crown Outfitters](https://triplecrownoutfitters.com) in South Kennedy Meadows.
 
-If you don’t mind giving your money to billionaires, Amazon is very convenient. They ship USPS which means being able to send directly to the Post Office (with General Delivery).
+UPDATE: I've since learned that Amazon only *occasionally* uses USPS, and sometimes uses other carriers. This surprised me because I was sure I and many others used Amazon to send General Delivery. We might have just got lucky. So I can't really recommend using Amazon at this time to send directly to Post Offices. Try instead to find a private business to send to who will accept multiple delivery methods.
 
-The Amazon website often complains about General Delivery addresses, but they always worked fine for me. The best solution I found is:
+~~If you don’t mind giving your money to billionaires, Amazon is very convenient. They ship USPS which means being able to send directly to the Post Office (with General Delivery).~~
+
+~~The Amazon website often complains about General Delivery addresses, but they always worked fine for me. The best solution I found is:~~
 
 
-1. Your Account
-2. Your Addresses
-3. Add New Address
-4. (Type the address in)
-5. Add Address
-6. (Amazon might say it doesn’t recognise the address)
-7. Click Add Address a second time
-8. It works!
+~~1. Your Account~~
+~~2. Your Addresses~~
+~~3. Add New Address~~
+~~4. (Type the address in)~~
+~~5. Add Address~~
+~~6. (Amazon might say it doesn’t recognise the address)~~
+~~7. Click Add Address a second time~~
+~~8. It works!~~
 
 
 For other retailers - you’ll have to find out if they ship USPS or UPS. POs generally only accept UPS. Guthook will tell you which private businesses accept which delivery method.
