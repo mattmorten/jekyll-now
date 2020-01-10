@@ -67,7 +67,7 @@ table tbody tr:last-child td {
 ![PCT Trail Marker](https://raw.githubusercontent.com/mattmorten/jekyll-now/master/images/Intro.jpg)
 
 ## What is this guide?
-There are *tonnes* of good resources online and in print about the PCT. In fact, much of what I’ve written here is probably available in some Reddit post or Blog entry somewhere. 
+There are *tons* of good resources online and in print about the PCT. In fact, much of what I’ve written here is probably available in some Reddit post or Blog entry somewhere. 
 
 However, I honestly feel there’s a lack of decent *SOBO-specific information* that is collated into *one resource*.
 
