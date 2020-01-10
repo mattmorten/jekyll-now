@@ -108,7 +108,7 @@ Thru-hiking has enriched my life in so many ways. It has been the journey of a l
 
 ## Changes
 
-|1/10/2019|Remove Amazon section|
+|1/10/2020|Remove Amazon section|
 |12/30/2019|Resort closures, Fearmongering, Bubble Pace|
 |12/9/2019|Version 1|
 
