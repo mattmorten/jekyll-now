@@ -108,6 +108,7 @@ Thru-hiking has enriched my life in so many ways. It has been the journey of a l
 
 ## Changes
 
+|2/4/2020|Sonora Pass Resupply company is closed|
 |1/10/2020|Remove Amazon section|
 |12/30/2019|Resort closures, Fearmongering, Bubble Pace|
 |12/9/2019|Version 1|
@@ -464,7 +465,8 @@ Even if you planned to do a single push, always know you can bail if you need a 
 ### Saving some time at North Kennedy Meadows
 The default option seems to be to hitch into North Kennedy meadows, resupply, pick up a bear box, and enjoy their wood-burning stove!
 
-The hitch can be a bit gnarly. A few hikers this year paid for [Sonora Pass Resupply](https://www.sonorapassresupply.com), a company that will deliver a full resupply (and bear box) direct to the trailhead. Plan it ahead of time and expect to pay an overhead.
+UPDATE: It appears Sonora Pass Resupply company will be closed for 2020, and perhaps beyond.
+~~The hitch can be a bit gnarly. A few hikers this year paid for [Sonora Pass Resupply](https://www.sonorapassresupply.com), a company that will deliver a full resupply (and bear box) direct to the trailhead. Plan it ahead of time and expect to pay an overhead.~~
 
 ### Example Strategies
 #### The Default
