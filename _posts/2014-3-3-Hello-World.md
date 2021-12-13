@@ -67,27 +67,14 @@ table tbody tr:last-child td {
 ![PCT Trail Marker](https://raw.githubusercontent.com/mattmorten/jekyll-now/master/images/Intro.jpg)
 
 ## What is this guide?
-There are *tons* of good resources online and in print about the PCT. In fact, much of what I’ve written here is probably available in some Reddit post or Blog entry somewhere. 
+There are many great resources to help you plan your PCT thru-hike. I wrote
+this guide because there aren't many that <span class="highlight">focus on the SOBO experience.</span>. The trail is the same, but the direction of travel makes a big difference on your experience!
 
-However, I honestly feel there’s a lack of decent *SOBO-specific information* that is collated into *one resource*.
+I hope this guide will help fill the gaps.
 
-This is an attempt to do that. 
-
-I’ve tried to keep it mostly about things that are unique to going SOBO (except the Shrink’s General Tips section). I would recommend reading this guide *in addition* to a more general-purpose resource out there:
-
-* [Halfway Anywhere](http://halfwayanywhere.com)
-* [Yogi’s Guide](http://yogisbooks.com)
-* [PCT Subreddit](http://reddit.com/r/pacificcresttrail)
-
-Also, please do check out these other *really excellent* SOBO resources:
-
-* [PCT Southbound](http://pctsouthbound.com)
-* [Zach's SOBO Guide](https://www.zachhoopes.com/pct-southbound-guide)
 
 ## What this guide isn’t!
-This guide is not the final word on all things SOBO! Everyone has different experiences, each year is different, and the thru-hiking experience is extremely subjective.
-
-Take all of this with a grain of salt and a generous attitude. Take what is useful, leave what isn’t, and always remember - Hike Your Own Hike!
+This guide is not the final word on all things SOBO! The thru-hiking experience is extremely subjective. Everyone will have a different experience. I've tried to keep the advice generic and appropriate to as many people as possible. As always - Hike Your Own Hike!
 
 ## About Shrink
 
@@ -95,19 +82,19 @@ Take all of this with a grain of salt and a generous attitude. Take what is usef
 
 I’m a British-born hiker in my mid-thirties. I completed a full SOBO thru-hike, all 2,653 miles, in 2019. 
 
-I tagged the Northern Terminus on June 29 and reached the Southern Terminus in Campo on November 4th, a total of 129 days.
+I tagged the Northern Terminus on June 29 and reached the Southern Terminus in Campo on November 4th, a total of <span class="highligh">129 days</span>.
 
-2019 was a great year for us SOBOs:
+2019 was a great year for SOBO travellers:
 
-* A low snow year in Washington
-* Relatively good weather in the Sierras
+* Minimal snow in Washington
+* Good weather in the Sierras
 * Few if any fire closures
 
-
-Thru-hiking has enriched my life in so many ways. It has been the journey of a lifetime. To those whom I walked with: it was an honour.
+Thru-hiking has enriched my life in so many ways. It was been the journey of a lifetime. 
 
 ## Changes
 
+|12/14/2021|Formatting, Climate Change section|
 |2/4/2020|Sonora Pass Resupply company is closed|
 |1/10/2020|Remove Amazon section|
 |12/30/2019|Resort closures, Fearmongering, Bubble Pace|
@@ -115,33 +102,37 @@ Thru-hiking has enriched my life in so many ways. It has been the journey of a l
 
 # Why SOBO?
 
-I’m biased - I think the SOBO experience is incredible, and I want to shout it from the rooftops.
+The SOBO hiking experience has many advantages over going NOBO:
+
+1. Less busy
+2. Experience one of the best States (Washington) immediately
+3. Better temperatures in Southern California
 
 ## NOBO Crowds
 In recent years the PCTA has released 50 permits per day throughout the the Northbound season. In 2018, 4,500 Northbound thru-hike permits were issued. That is in contrast to 491 Southbound permits for the same year.
 
-The PCT going NOBO is crowded. The popularity of the trail has skyrocketed in the years since Wild was released in cinemas. Personally, this detracts from the experience I was searching for: adventure, independence, self sufficiency, connection with nature, peacefulness. This was the defining issue for me. I don't want to be squeezing 15 people into a 4-person tent site. I don't want to be hurrying into town early to get the few remaining hotel rooms. I don't want to be part of a herd.
+<span class="highligh">The PCT going NOBO is crowded</span>. The popularity of the trail has skyrocketed in the last decade, to the point where it is now very difficult to secure a permit. The crowded nature of the trail ran counter to what I was looking to experience: solitude, independence, peace, and a feeling of being alone in the woods. This was the defining issue for me. I didn't want to be squeezing 15 people into a 4-person tent site. I didn't want to be hurrying into town early to get the few remaining hotel rooms. Trail Families weren't important to me.
 
-This is a personal preference, it's not a value judgement on those who are looking for something different.
+This is a personal preference, it's not a value judgement. Everyone should examine their own reasons and motivations for hiking.
 
 ## Washington
-It’s a fact of the trail that many people choose to end their thru-hike within the first month. If that is the case for you, at least you will have experienced hiking through Washington, one of the most incredible portions of the trail. And the beauty begins right away - the first 30 miles from Harts Pass to the Northern Terminus consistently ranks as one of the most favourite trail sections.
+Sadly, many people are forced to end their thru-hike within the first month. If that is the case for you, at least you will have experienced hiking through Washington, one of the most incredible portions of the trail. And the beauty begins right away - the first 30 miles from Harts Pass to the Northern Terminus consistently ranks as one of the most spectacular trail sections.
 
 ## A cool Desert
-Going NOBO through the desert in April / May is a gruelling experience. You have to be prepared for 100+ degree days and often little shade.
+Going NOBO through the Southern California in April / May is a gruelling experience. You have to be prepared for 100+ degree days and often little shade.
 
-SOBOs will hike through the desert in October and November, when daytime temperatures are likely to stay in the 70s and 80s, with lows in the 30s and 40s at night.
+SOBOs will hike through the desert in October and November, when daytime temperatures will stay in the 70s and 80s, with lows in the 30s and 40s at night.
 
 ## Snow-free Sierras
 Once you reach the Sierra Nevada in September, almost all of the settled snow will have melted. There won’t be any bugs. Passes should be easy. You’ll be in great physical shape and ready to knock out 25+ mile days.
 
 # Urgency and its effects on Trail Culture
 
-Urgency is a huge component of a SOBO thru-hike. You _must_ be through the Sierras before the winter snow sets in for the winter.
+Urgency is a huge component of a SOBO thru-hike. You should be through the Sierras before the snow sets in for the winter.
 
-A standard SOBO attempt might begin around July 1. The received wisdom tells us that the Sierra snows will arrive somewhere near October 15th. None of this is set in stone! But using this as a rough guide, a hiker will have approximately 100 days to go 1,800 miles to Forester Pass, after which they descend out of the Sierras into the desert.
+You should aim to exit the Sierras by October 15th. If you start your thru-hike on July 1,  <span class="highlight">you will have approximately 100 days to go 1,800 miles to Forester Pass</span>, after which they descend out of the Sierras into the desert.
 
-This goal is paramount and in the forefront of a SOBO hiker's mind. I rarely met anyone who didn't have at least some background anxiety about making it in time.  
+This goal is in the forefront of a SOBO hiker's mind. I rarely met anyone who didn't have at least some background anxiety about making it in time.  
 
 The flavour of a SOBO hike is therefore characterised by:
 
@@ -152,11 +143,10 @@ The flavour of a SOBO hike is therefore characterised by:
 
 I believe this produces a trail culture that is quite different to the NOBO experience. There is very little "party culture". Sometimes you will find yourself rushing through experiences that you wished you had longer to take in and enjoy. Self discipline is important. You might feel guilty when you're not walking (a feeling that stayed with me even after I finished the trail)!
 
-There are also real positives that come from being part of the SOBO community. Most people are there because of a specific reason to go South, not just by default. Anecdotally I would say the level of experience and preparedness is higher. I had a really great time meeting people that had a focus and drive that matched my own.
+There are also real benefits that come from being part of the SOBO community. Most people are there because of a specific reason to go South, not just by default. Anecdotally I would say the level of experience and preparation is higher. I had a really great time meeting people that had a focus and drive that matched my own.
 
-I didn't really see any large Trail Families. Most people I met were looking for some degree of solitude, which would allow them better to connect with the surrounding nature. Several times I ran into oncoming NOBOs who travelled in groups of 8 to 12, which felt completely anathema as a SOBO. Many SOBO hikers I spoke to really valued their independence and didn't want to compromise their drive to reach the Southern Terminus. If their group was walking too slow, it was time to push on ahead alone. You'll always meet more hikers ahead of you.
+I didn't really see any large Trail Families. Most people I met were looking for some degree of solitude, which would allow them better to connect with the surrounding nature. Several times I ran into oncoming NOBOs who travelled in groups of 8 to 12, something that would look out of place for SOBOers. Many SOBO hikers I spoke to really valued their independence and didn't want to compromise their drive to reach the Southern Terminus. If their group was walking too slow, it was time to push on ahead alone. You'll always meet more hikers ahead of you.
 
-I don't want to make a value judgement. Different experiences are right for different people. Make a conscious decision - what am I looking for from my thru-hike? 
 
 # Choosing a Start Date
 
@@ -167,7 +157,7 @@ This has been elaborated in far more detail at [PCT Southbound](http://pctsouthb
 * Anywhere between July 1 and July 7 is a good bet
 
 ## 2020 Permitting Changes
-For the 2020 season, the PCTA has restricted the number of daily permits for SOBO to 15. I believe they also want to make sure that people start on their permit date.
+For the 2020 season, <span class="highlight">the PCTA has restricted the number of daily permits for SOBO to 15</span>. I believe they also want to make sure that people start on their permit date.
 
 When applying for your SOBO permit, you will have no idea what the snow conditions are going to be like for that season. It will be impossible to precisely predict when to start.
 
@@ -185,11 +175,11 @@ Work your way back from that date.  Give yourself *2.5 weeks to get from South L
 
 That means *finishing NorCal by around September 25th*
 
-# Fearmongering
+# Avoiding the Fearmongering
 
 Keep the snow deadline firmly in the front of your mind. Keep on top of the weather reports as you approach the high passes. Seek advice from others on the trail, particularly those coming North. Watch the InciWeb website for wildfires.
 
-But be aware there is always a strong current of fearmongering in the trail community! Every hiker is managing their own fears and doubt about making it all the way to Campo. 
+Conversely, watch out for fearmongering! Every hiker is managing their own fears and doubt about making it all the way to Campo. 
 
 I was personally told about difficult snow crossings that never materialised, and wildfires that never existed.
 
@@ -199,9 +189,9 @@ I was personally told about difficult snow crossings that never materialised, an
 
 # Bubble Pace
 
-People on trail talk about the "Bubble": a large grouping of hikers, all within maybe 1 week of each other, who are setting the average pace. Those in front and behind the bubble, particularly going SOBO, might see fewer people and spend more time hiking and camping alone.
+People on trail talk about <span class="highligh">the "Bubble": a large grouping of hikers, all within maybe 1 week of each other, who are setting the average pace</span>. Those in front and behind the bubble, particularly going SOBO, might see fewer people and spend more time hiking and camping alone.
 
-In 2019 I hiked solidly inside the Bubble. I'd sometimes see 20+ people at major town stops. 
+In 2019 I hiked mainly inside the Bubble. I'd sometimes see 10+ people at major town stops. 
 
 Here was my 2019 pace:
 
@@ -765,3 +755,17 @@ These tips are pretty generic, but I hope they are helpful:
 * Hitches into and out of trail towns are usually easy - the locals know what you’re doing and likely want to help you. If you’re trying to get somewhere further away from trail, you might have a harder time of it.
 * Location is key. Make sure the driver has somewhere safe to pull over behind you. Make sure you’re visible when they are coming towards you - blind corners aren’t good hitching places.
 * Smile! :)
+
+## Other Resources
+Here are some other resources I would recommend checking out:
+
+I’ve tried to keep it mostly about things that are unique to going SOBO (except the Shrink’s General Tips section). I would recommend reading this guide *in addition* to a more general-purpose resource out there:
+
+* [Halfway Anywhere](http://halfwayanywhere.com)
+* [Yogi’s Guide](http://yogisbooks.com)
+* [PCT Subreddit](http://reddit.com/r/pacificcresttrail)
+
+Also, please do check out these other *really excellent* SOBO resources:
+
+* [PCT Southbound](http://pctsouthbound.com)
+* [Zach's SOBO Guide](https://www.zachhoopes.com/pct-southbound-guide)
