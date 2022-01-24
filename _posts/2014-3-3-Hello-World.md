@@ -107,26 +107,26 @@ You can find me on Reddit with the username [butterguns](https://www.reddit.com/
 # FAQ
 Here are some questions that commonly get asked on the [PCT subreddit](https://www.reddit.com/r/PacificCrestTrail/), and some quick-fire answers. Each is elaborated on further in this guide
 
-Q: Why should I consider hiking SOBO?
+Q: Why should I consider hiking SOBO?<br/>
 A: Smaller crouds, arguably better weather, and a subtly different trail culture to what NOBOs experience.
 
-Q: Is it harder that going NOBO?
+Q: Is it harder that going NOBO?<br/>
 A: Yes. Your shorter hiking window will mean less time on trail, and more miles per day. You're starting in Washington, a tough state.
 
-Q: Will I be lonely?
+Q: Will I be lonely?<br/>
 A: No. Plenty of people hike SOBO. There is a better balance of socialising and alone time.
 
-Q: Do I really need to do an out-and-back (extra 30 miles) to get to the Northern Terminus?
+Q: Do I really need to do an out-and-back (extra 30 miles) to get to the Northern Terminus?<br/>
 A: Yes, if you want to get to the northern terminus, there is an extra 30 miles of hiking in the wrong direction. The good news is - it's incredibly beautiful.
 
-Q: Will I get trail magic going SOBO?
+Q: Will I get trail magic going SOBO?<br/>
 A: Yes, but not as much as going NOBO. 
 
-Q: How should I train for the trail?
+Q: How should I train for the trail?<br/>
 A: Focus on injury-management. Then start gentle cardio (walking, hiking, running), ideally with weight on your back.
 
 # The Video
-I shot small sequences on my iPhone 7, along different parts of the trail. Here is my full journey:
+I shot small sequences on my iPhone, along different parts of the trail. Here is my full journey:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cnKZJPGMwZo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
