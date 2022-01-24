@@ -147,6 +147,16 @@ There are also real benefits that come from being part of the SOBO community. Mo
 
 I didn't really see any large Trail Families. Most people I met were looking for some degree of solitude, which would allow them better to connect with the surrounding nature. Several times I ran into oncoming NOBOs who travelled in groups of 8 to 12, something that would look out of place for SOBOers. Many SOBO hikers I spoke to really valued their independence and didn't want to compromise their drive to reach the Southern Terminus. If their group was walking too slow, it was time to push on ahead alone. You'll always meet more hikers ahead of you.
 
+# Climate Change and Forest Fires
+
+I'm writing this section in winter of 2022, after witnessing multiple disasterous years of wildfires along the PCT. The trail has changed significantly from when I hiked in 2019. In 2021, the Forest Service closed multiple wilderness areas within California, rendering much of the trail off-limits for hiking during the peak PCT SOBO season.
+
+Wildfires will continue to be a major issue for states on the West coast, and for PCT hikers. SOBO hikers will be impacted more than their Northbound counterparts due to their later entrance into California.
+
+It's sad to say that wildfire risk makes the calculation to go SOBO even more difficult in recent years. My advice to hikers:
+
+1. Always be flexible with your plans, and never put yourself at risk when it comes to fire.
+2. Keep track of fires using the [Inciweb](https://inciweb.nwcg.gov/?state=6) website.
 
 # Choosing a Start Date
 
@@ -229,18 +239,18 @@ Make a copy of the sheet to your account and start filling it in _from the North
 
 ![Some of my starting equipment](https://raw.githubusercontent.com/mattmorten/jekyll-now/master/images/Gear.JPG)
 
-I found two different approaches to how people selected gear for the trail:
+The trail can be thought of in one of two ways:
 
 1. One continuous hike
 2. Five separate hikes
 
 ## One continuous hike
-You choose one set of equipment to carry from Canada to Mexico, through all environments, temperatures, and weather conditions. This comes with the clear benefit of simplicity - you don’t have to spend as much money and no swapping in and out is required. There's rarely a chance you'll be caught off-guard by conditions. One friend I hiked with on the trail described it as more "pure" experience.
+You choose one set of equipment to carry from Canada to Mexico, through all environments, temperatures, and weather conditions. This is a simple approach - you won't need to worry about swapping out gear, or bouncing it from town to town. You'll be better equipped for more extreme weather. One friend I hiked with on the trail described it as more "pure" experience.
 
-The obvious downside here is that for much of the trail you'll be carrying things that are overkill for your environment. Having a heavy, warm, 10 degree F sleeping bag is largely unnecessary for the majority of Oregon and Northern California. A double wall shelter in the Desert is overkill when it barely rains and there are no nighttime bugs. On my thru-hike in 2019, I didn't set up my shelter once after Mount Whitney. That's 750 miles carrying an item that could be switched out for something much lighter such as a tarp.
+The obvious downside is that for much of the trail you'll be carrying things that are overkill for your environment. Having a heavy, warm, 10 degree F sleeping bag is largely unnecessary for the majority of Oregon and Northern California. A double wall shelter in the Desert is overkill when it barely rains and there are no mosquitos. On my thru-hike in 2019, I didn't set up my shelter once after Mount Whitney. That's 750 miles carrying an item that could be switched out for something much lighter such as a tarp.
 
 ## Five separate hikes
-If you have the luxury of owning multiple pieces of gear that are suited to different seasons, my personal recommendation is treating the trip as though you were doing 5 separate hikes. Each portion (Washington, Oregon, NorCal, Sierra, SoCal) brings different weather conditions, bug intensity and temperature variations.
+If you have the luxury of owning multiple pieces of gear that are suited to different seasons, my personal recommendation is to treat the trip as 5 separate hikes. Each portion (Washington, Oregon, NorCal, Sierra, SoCal) brings different weather conditions, bug intensity and temperature variations.
 
 Here is a breakdown of each section and some ideas of what gear might be swapped in or out:
 
@@ -249,7 +259,7 @@ Here is a breakdown of each section and some ideas of what gear might be swapped
 | Washington | Wet, cold, buggy | This is where you need most of your gear. Perhaps consider synthetic clothing over down, which will trap warmth better when wet|
 | Oregon | Dry, warm, buggy | Fewer layers, lighter sleeping bag and pad, lighter rain gear |
 | NorCal | Dry, hot | Even fewer layers and lighter bag and pad, long pants not necessary to repel bugs. Minimal sleeping clothes. This was my lightest pack weight |
-| Sierra | Snow, very cold, no bugs | Shelter without bug protection. Be ready for snow. Heavy bag and pad. Warm sleep layers! |
+| Sierra | Snow, very cold, no bugs | No more bugs. Be ready for snow. Heavy bag and pad. Warm sleep layers! |
 | SoCal | Dry, somewhat cold, no bugs | Minimal shelter. Some warm layers |
 
 This strategy requires thought, planning, additional expense (equipment costs and mailing fees), a small amount of additional risk of things not being there when you need, and a higher tolerance for weather variations.
