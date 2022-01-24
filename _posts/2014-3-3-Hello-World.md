@@ -68,7 +68,7 @@ table tbody tr:last-child td {
 
 ## What is this guide?
 There are many great resources to help you plan your PCT thru-hike. I wrote
-this guide because there aren't many that focus on the SOBO experience. The trail is the same, but the direction of travel makes a big difference on your experience!
+this guide because there aren't many that focus on those going Southbound. The trail is the same, but the direction of travel makes a big difference on your experience!
 
 I hope this guide will help fill the gaps.
 
@@ -80,9 +80,9 @@ This guide is not the final word on all things SOBO! The thru-hiking experience 
 
 ![Shrink at the Southern Terminus](https://raw.githubusercontent.com/mattmorten/jekyll-now/master/images/Shrink.jpg)
 
-I’m a British-born hiker in my mid-thirties. I completed a full SOBO thru-hike, all 2,653 miles, in 2019. 
+I’m a British-born hiker living in the US. I completed a full SOBO thru-hike, all 2,653 miles, in 2019
 
-I tagged the Northern Terminus on June 29 and reached the Southern Terminus in Campo on November 4th, a total of <span class="highligh">129 days</span>.
+I tagged the Northern Terminus on June 29 and reached the Southern Terminus in Campo on November 4th, a total of 129 days.
 
 2019 was a great year for SOBO travellers:
 
@@ -98,11 +98,37 @@ You can find me on Reddit with the username [butterguns](https://www.reddit.com/
 
 ## Changes
 
-|v1.4|1/24/2022|Formatting, Climate Change section, closures|
+|v1.4|1/24/2022|Formatting, Climate Change section, closures, FAQ|
 |v1.3|2/4/2020|Sonora Pass Resupply company is closed|
 |v1.2|1/10/2020|Remove Amazon section|
 |v1.1|12/30/2019|Resort closures, Fearmongering, Bubble Pace|
 |v1.0|12/9/2019|Initial Release|
+
+# FAQ
+Here are some questions that commonly get asked on the [PCT subreddit](https://www.reddit.com/r/PacificCrestTrail/), and some quick-fire answers. Each is elaborated on further in this guide
+
+Q: Why should I consider hiking SOBO?
+A: Smaller crouds, arguably better weather, and a subtly different trail culture to what NOBOs experience.
+
+Q: Is it harder that going NOBO?
+A: Yes. Your shorter hiking window will mean less time on trail, and more miles per day. You're starting in Washington, a tough state.
+
+Q: Will I be lonely?
+A: No. Plenty of people hike SOBO. There is a better balance of socialising and alone time.
+
+Q: Do I really need to do an out-and-back (extra 30 miles) to get to the Northern Terminus?
+A: Yes, if you want to get to the northern terminus, there is an extra 30 miles of hiking in the wrong direction. The good news is - it's incredibly beautiful.
+
+Q: Will I get trail magic going SOBO?
+A: Yes, but not as much as going NOBO. 
+
+Q: How should I train for the trail?
+A: Focus on injury-management. Then start gentle cardio (walking, hiking, running), ideally with weight on your back.
+
+# The Video
+I shot small sequences on my iPhone 7, along different parts of the trail. Here is my full journey:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cnKZJPGMwZo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Why SOBO?
 
@@ -115,7 +141,7 @@ The SOBO hiking experience has many advantages over going NOBO:
 ## NOBO Crowds
 In recent years the PCTA has released 50 permits per day throughout the the Northbound season. In 2018, 4,500 Northbound thru-hike permits were issued. That is in contrast to 491 Southbound permits for the same year.
 
-<span class="highligh">The PCT going NOBO is crowded</span>. The popularity of the trail has skyrocketed in the last decade, to the point where it is now very difficult to secure a permit. The crowded nature of the trail ran counter to what I was looking to experience: solitude, independence, peace, and a feeling of being alone in the woods. This was the defining issue for me. I didn't want to be squeezing 15 people into a 4-person tent site. I didn't want to be hurrying into town early to get the few remaining hotel rooms. Trail Families weren't important to me.
+The PCT going NOBO is crowded. The popularity of the trail has skyrocketed in the last decade, to the point where it is now very difficult to secure a permit. The crowded nature of the trail ran counter to what I was looking to experience: solitude, independence, peace, and a feeling of being alone in the woods. This was the defining issue for me. I didn't want to be squeezing 15 people into a 4-person tent site. I didn't want to be hurrying into town early to get the few remaining hotel rooms. Trail Families weren't important to me.
 
 This is a personal preference, it's not a value judgement. Everyone should examine their own reasons and motivations for hiking.
 
@@ -203,7 +229,7 @@ I was personally told about difficult snow crossings that never materialised, an
 
 # Bubble Pace
 
-People on trail talk about <span class="highligh">the "Bubble": a large grouping of hikers, all within maybe 1 week of each other, who are setting the average pace</span>. Those in front and behind the bubble, particularly going SOBO, might see fewer people and spend more time hiking and camping alone.
+People on trail talk about the "Bubble": a large grouping of hikers, all within maybe 1 week of each other, who are setting the average pace. Those in front and behind the bubble, particularly going SOBO, might see fewer people and spend more time hiking and camping alone.
 
 In 2019 I hiked mainly inside the Bubble. I'd sometimes see 10+ people at major town stops. 
 
