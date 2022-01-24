@@ -92,13 +92,17 @@ I tagged the Northern Terminus on June 29 and reached the Southern Terminus in C
 
 Thru-hiking has enriched my life in so many ways. It was been the journey of a lifetime. 
 
+## Contact Shrink
+
+You can find me on Reddit with the username [butterguns](https://www.reddit.com/user/butterguns). Drop me a DM.
+
 ## Changes
 
-|12/14/2021|Formatting, Climate Change section|
-|2/4/2020|Sonora Pass Resupply company is closed|
-|1/10/2020|Remove Amazon section|
-|12/30/2019|Resort closures, Fearmongering, Bubble Pace|
-|12/9/2019|Version 1|
+|v1.4|1/24/2022|Formatting, Climate Change section, closures|
+|v1.3|2/4/2020|Sonora Pass Resupply company is closed|
+|v1.2|1/10/2020|Remove Amazon section|
+|v1.1|12/30/2019|Resort closures, Fearmongering, Bubble Pace|
+|v1.0|12/9/2019|Initial Release|
 
 # Why SOBO?
 
@@ -385,6 +389,8 @@ The Sierra is a section worth taking time to plan for ahead of time! Even if you
 
 ### Overview
 
+*2022 update:* Tuolumne Meadows campground is closed starting 2022. Store and postal services will still be available in some capacity. Read more [here](https://www.pcta.org/2022/tuolumne-meadows-campground-closure-89912/) and consider skipping Tuolumne entirely, opting instead to push through directly to Red's Meadow / Mammoth Lakes.
+
 Here are the prominent resupply points through the Sierra:
 
 | Mile | On-Trail | Off-Trail | Comment |
@@ -495,7 +501,7 @@ Cost overhead: a lot<br/>
 | Red’s Meadow | On-trail | Box | 50 |
 | MTR | On-trail | Box | 155 |
 
-_Variation: send a box to Tuolumne Meadows instead of Red’s meadow. It spaces out the resupply stops better, however TM post office is closed for much of the weekend, and I know a bunch of people who got caught out by this!_
+_Variation: send a box to Tuolumne Meadows instead of Red’s meadow. It spaces out the resupply stops better, however TM post office is closed for much of the weekend, and I know a bunch of people who got caught out by this!_ Also see 2022 update on the potential [Tuolumne Meadows closure](https://www.pcta.org/2022/tuolumne-meadows-campground-closure-89912/)
 
 #### The Roll-the-Dice
 Pre-planning: not much<br/>
