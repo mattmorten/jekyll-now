@@ -110,7 +110,7 @@ Here are some questions that commonly get asked on the [PCT subreddit](https://w
 *Q: Why should I consider hiking SOBO?*<br/>
 A: Smaller crouds, arguably better weather, and a subtly different trail culture to what NOBOs experience.
 
-*Q: Is it harder that going NOBO?*<br/>
+*Q: Is it harder than going NOBO?*<br/>
 A: Yes. Your shorter hiking window will mean less time on trail, and more miles per day. You're starting in Washington, a tough state.
 
 *Q: Will I be lonely?*<br/>
