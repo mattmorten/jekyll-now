@@ -68,7 +68,7 @@ table tbody tr:last-child td {
 
 ## What is this guide?
 There are many great resources to help you plan your PCT thru-hike. I wrote
-this guide because there aren't many that <span class="highlight">focus on the SOBO experience.</span>. The trail is the same, but the direction of travel makes a big difference on your experience!
+this guide because there aren't many that focus on the SOBO experience. The trail is the same, but the direction of travel makes a big difference on your experience!
 
 I hope this guide will help fill the gaps.
 
@@ -130,7 +130,7 @@ Once you reach the Sierra Nevada in September, almost all of the settled snow wi
 
 Urgency is a huge component of a SOBO thru-hike. You should be through the Sierras before the snow sets in for the winter.
 
-You should aim to exit the Sierras by October 15th. If you start your thru-hike on July 1,  <span class="highlight">you will have approximately 100 days to go 1,800 miles to Forester Pass</span>, after which they descend out of the Sierras into the desert.
+You should aim to exit the Sierras by October 15th. If you start your thru-hike on July 1, you will have approximately 100 days to go 1,800 miles to Forester Pass, after which they descend out of the Sierras into the desert.
 
 This goal is in the forefront of a SOBO hiker's mind. I rarely met anyone who didn't have at least some background anxiety about making it in time.  
 
@@ -167,7 +167,7 @@ This has been elaborated in far more detail at [PCT Southbound](http://pctsouthb
 * Anywhere between July 1 and July 7 is a good bet
 
 ## 2020 Permitting Changes
-For the 2020 season, <span class="highlight">the PCTA has restricted the number of daily permits for SOBO to 15</span>. I believe they also want to make sure that people start on their permit date.
+For the 2020 season, the PCTA has restricted the number of daily permits for SOBO to 15. I believe they also want to make sure that people start on their permit date.
 
 When applying for your SOBO permit, you will have no idea what the snow conditions are going to be like for that season. It will be impossible to precisely predict when to start.
 
