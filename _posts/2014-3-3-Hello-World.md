@@ -108,7 +108,7 @@ You can find me on Reddit with the username [butterguns](https://www.reddit.com/
 Here are some questions that commonly get asked on the [PCT subreddit](https://www.reddit.com/r/PacificCrestTrail/), and some quick-fire answers. Each is elaborated on further in this guide
 
 *Q: Why should I consider hiking SOBO?*<br/>
-A: Smaller crouds, arguably better weather, and a subtly different trail culture to what NOBOs experience.
+A: Smaller crowds, arguably better weather, and a subtly different trail culture to what NOBOs experience.
 
 *Q: Is it harder than going NOBO?*<br/>
 A: Yes. Your shorter hiking window will mean less time on trail, and more miles per day. You're starting in Washington, a tough state.
